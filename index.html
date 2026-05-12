@@ -702,7 +702,7 @@
       html:not([dir]) #mic-init-access-tool #mic-access-tool-general-button,
       html:not([dir]) ._access-icon { right: 20px !important; left: auto !important; }
       @media (max-width: 768px) { .whatsapp-float { display: flex !important; } }
-      @media (min-width: 769px) { .whatsapp-float { display: flex !important; } }
+      @media (min-width: 769px) { .whatsapp-float { display: none !important; } }
       @media (max-width: 768px) {
         #mic-access-tool-general-button, .mic-access-tool-general-button,
         #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
@@ -714,9 +714,10 @@
       @media (min-width: 769px) {
         #mic-access-tool-general-button, .mic-access-tool-general-button,
         #mic-init-access-tool .mic-access-tool-general-button, #mic-init-access-tool #mic-access-tool-general-button,
-        ._access-icon, #mic-access-tool-box, .mic-access-tool-box,
-        #mic-init-access-tool #mic-access-tool-box, div[id*="mic-access-tool-box"], ._access-menu {
-          display: none !important; visibility: hidden !important; opacity: 0 !important; pointer-events: none !important;
+        ._access-icon { display: flex !important; visibility: visible !important; opacity: 1 !important; pointer-events: auto !important; }
+        #mic-access-tool-box.opened-mic-access-tool, .mic-access-tool-box.opened-mic-access-tool,
+        #mic-init-access-tool #mic-access-tool-box.opened-mic-access-tool {
+          visibility: visible !important; opacity: 1 !important; pointer-events: auto !important;
         }
       }
     </style>
@@ -738,7 +739,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "b331262d-1569-4ef3-a2d1-05909f00498f";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
+<script>window.ZAPPY_WEBSITE_ID = "b331262d-1569-4ef3-a2d1-05909f00498f";window.ZAPPY_API_BASE = "https://qaapi.zappy5.com";</script>
   <div id="announcement-bar" style="background:#111111;color:#ffffff;text-align:center;padding:8px 16px;font-size:13px;font-weight:500;letter-spacing:0.02em;width:100%;box-sizing:border-box;position:relative;z-index:1001;">משלוח חינם ומהיר בקנייה מעל 399 ₪</div>
 <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
@@ -1188,38 +1189,7 @@
     
     console.log('[Navbar] Mobile menu initialized successfully');
     
-    // === WHATSAPP BUTTON VISIBILITY FIX ===
-    // Ensure WhatsApp floating button is hidden on desktop and visible on mobile
-    // IMPORTANT: Only target the floating button by its class, NOT generic wa.me links
-    const handleWhatsAppVisibility = function() {
-      const whatsappBtn = document.querySelector('.whatsapp-float');
-      if (whatsappBtn) {
-        const isDesktop = window.innerWidth >= 769;
-        if (isDesktop) {
-          whatsappBtn.style.setProperty('display', 'none', 'important');
-          whatsappBtn.style.setProperty('visibility', 'hidden', 'important');
-          whatsappBtn.style.setProperty('opacity', '0', 'important');
-          whatsappBtn.style.setProperty('pointer-events', 'none', 'important');
-          console.log('[WhatsApp] Button hidden on desktop');
-        } else {
-          whatsappBtn.style.removeProperty('display');
-          whatsappBtn.style.removeProperty('visibility');
-          whatsappBtn.style.removeProperty('opacity');
-          whatsappBtn.style.removeProperty('pointer-events');
-          console.log('[WhatsApp] Button visible on mobile');
-        }
-      }
-    };
-    
-    // Run on load
-    handleWhatsAppVisibility();
-    
-    // Run on resize with debouncing
-    let resizeTimer;
-    window.addEventListener('resize', function() {
-      clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(handleWhatsAppVisibility, 100);
-    });
+    // WhatsApp visibility is now controlled via CSS (siteSettings)
   });
 })();
 
@@ -1250,19 +1220,19 @@
 
 
 
-<section class="hodaya-hero" id="hodaya-hero" data-zappy-content-align="center-right" style="">
+<section class="hodaya-hero" id="hodaya-hero" data-zappy-content-align="center-right" >
   <!-- Background Image -->
   <div class="hodaya-hero__bg-wrapper">
-    <div data-zappy-zoom-wrapper="true" data-element-id="img-1777899212345-s2bfezjyc" data-element-type="image" data-zappy-zoom-wrapper-width-mode="full" style="position: absolute !important; top: 0px !important; left: 0px !important; width: 100% !important; height: 100% !important; max-width: none !important; margin-left: 0px !important; margin-right: 0px !important; display: block !important; z-index: 1 !important; overflow: hidden !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-zoom-wrapper-width="390px" data-zappy-zoom-wrapper-height="719px" data-zappy-zoom-wrapper-align="center"><img class="hodaya-hero__bg-img" src="/assets/image-1778523765176-8t8ag0.webp" alt="אישה בלבוש צנוע ואלגנטי" data-placeholder="hero-modest-fashion" data-context="Elegant modest fashion woman wearing flowing long dress with long sleeves in neutral earth tones, standing gracefully in a bright airy studio, soft natural lighting, fashion editorial style, sophisticated and refined" data-zappy-editable-image="true" data-element-type="image" data-element-id="img-1777899212345-s2bfezjyc" style="width: 100% !important; height: 100% !important; object-fit: cover !important; object-position: 50% 50% !important; position: absolute !important; margin: 0px !important; left: 0% !important; top: 0% !important; max-width: none !important; max-height: none !important; display: block !important" data-zappy-zoom="1" data-zappy-original-width="390" data-zappy-original-height="719" data-zappy-object-position="50% 50%"></div>
+    <div data-zappy-zoom-wrapper="true" data-element-id="img-1777899212345-s2bfezjyc" data-element-type="image" data-zappy-zoom-wrapper-width-mode="full" style="position: absolute !important; top: 0px !important; left: 0px !important; width: 100% !important; height: 100% !important; max-width: none !important; margin-left: 0px !important; margin-right: 0px !important; display: block !important; z-index: 1 !important; overflow: hidden !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true" data-zappy-zoom-wrapper-width="390px" data-zappy-zoom-wrapper-height="719px" data-zappy-zoom-wrapper-align="center"><img class="hodaya-hero__bg-img" src="/assets/image-1778523765176-8t8ag0.webp" alt="אישה בלבוש צנוע ואלגנטי" data-placeholder="hero-modest-fashion" data-context="Elegant modest fashion woman wearing flowing long dress with long sleeves in neutral earth tones, standing gracefully in a bright airy studio, soft natural lighting, fashion editorial style, sophisticated and refined" data-element-type="image" data-element-id="img-1777899212345-s2bfezjyc" style="width: 100% !important; height: 100% !important; object-fit: cover !important; object-position: 50% 50% !important; position: absolute !important; margin: 0px !important; left: 0% !important; top: 0% !important; max-width: none !important; max-height: none !important; display: block !important" data-zappy-zoom="1" data-zappy-original-width="390" data-zappy-original-height="719" data-zappy-object-position="50% 50%"></div>
     <!-- Dark overlay -->
     <div class="hodaya-hero__overlay" aria-hidden="true"></div>
   </div>
 
   <!-- Hero Content -->
-  <div class="hodaya-hero__content" data-zappy-align-target="true" style="">
+  <div class="hodaya-hero__content" data-zappy-align-target="true" >
     <!-- Decorative label -->
-    <p style=""><span class="hodaya-hero__label">קולקציית אביב-קיץ 2026</span>&nbsp;</p><!-- Main Heading -->
-    <h1 class="hodaya-hero__title" style="text-align: right;"><p style=""></p></h1><h1 style=""><font color="#ffffff">הקולקציה החדשה<br> הגיעה</font></h1><p style=""><font color="#ffffff"><span style="caret-color: rgb(255, 255, 255);">&nbsp; &nbsp;</span></font><br><br><font color="#ffffff"><span style="caret-color: rgb(255, 255, 255);"><br><br></span></font><br><br><font color="#ffffff"><span style="caret-color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; צניעות &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; סטייל &nbsp; &nbsp; &nbsp;| &nbsp; איכות&nbsp;</span></font><br><br><br><br><font color="#ffffff"><span style="caret-color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;כשצניעות ויוקרה נפגשים</span></font></p>
+    <p ><span class="hodaya-hero__label">קולקציית אביב-קיץ 2026</span>&nbsp;</p><!-- Main Heading -->
+    <h1 class="hodaya-hero__title" style="text-align: right;"><p ></p></h1><h1 ><font color="#ffffff">הקולקציה החדשה<br> הגיעה</font></h1><p ><font color="#ffffff"><span style="caret-color: rgb(255, 255, 255);">&nbsp; &nbsp;</span></font><br><br><font color="#ffffff"><span style="caret-color: rgb(255, 255, 255);"><br><br></span></font><br><br><font color="#ffffff"><span style="caret-color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; צניעות &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; סטייל &nbsp; &nbsp; &nbsp;| &nbsp; איכות&nbsp;</span></font><br><br><br><br><font color="#ffffff"><span style="caret-color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;כשצניעות ויוקרה נפגשים</span></font></p>
 
     <!-- Subtitle -->
     
@@ -1293,8 +1263,8 @@
 <section id="hodaya-categories-section" class="hodaya-categories-section" dir="rtl">
   <div class="hodaya-categories-container">
     <div class="hodaya-categories-header">
-      <h2 class="hodaya-categories-title" style=""></h2><h1 style="">Choose Your Look</h1>
-      <p class="hodaya-categories-subtitle" style="">גלי את הקולקציה שלנו — אופנה צנועה ואלגנטית לכל אירוע</p>
+      <h2 class="hodaya-categories-title" ></h2><h1 >Choose Your Look</h1>
+      <p class="hodaya-categories-subtitle" >גלי את הקולקציה שלנו — אופנה צנועה ואלגנטית לכל אירוע</p>
     </div>
     <div class="hodaya-categories-grid">
 
@@ -1306,7 +1276,7 @@
         </div>
         <div class="hodaya-cat-content">
           <h3 class="hodaya-cat-name">שמלות</h3>
-          <p class="hodaya-cat-desc" style="">שמלות אלגנטיות לכל אירוע</p>
+          <p class="hodaya-cat-desc" >שמלות אלגנטיות לכל אירוע</p>
           <p><a href="/category/dresses" class="hodaya-cat-btn" data-element-type="button" data-element-id="btn-1778523285363-vlzmzxzrw" data-native-element="true" style="border-color: var(--primary-color, var(--primary, #8B0000)) !important; color: rgb(255, 255, 255) !important; background-color: var(--primary-color, var(--primary, #8B0000)) !important; background-image: none !important;">SHOP NOW</a>
         </p></div>
       </div>
@@ -1319,7 +1289,7 @@
         </div>
         <div class="hodaya-cat-content">
           <h3 class="hodaya-cat-name">חצאיות</h3>
-          <p class="hodaya-cat-desc" style="">חצאיות צנועות ומלאות סטייל</p>
+          <p class="hodaya-cat-desc" >חצאיות צנועות ומלאות סטייל</p>
           <p><a href="/category/skirts" class="hodaya-cat-btn" data-element-type="button" data-element-id="btn-1778523285363-fy5nce1op" data-native-element="true" style="border-color: var(--primary-color, var(--primary, #8B0000)) !important; color: rgb(255, 255, 255) !important; background-color: var(--primary-color, var(--primary, #8B0000)) !important; background-image: none !important;">SHOP NOW</a>
         </p></div>
       </div>
@@ -1345,7 +1315,7 @@
         </div>
         <div class="hodaya-cat-content">
           <h3 class="hodaya-cat-name">חליפות</h3>
-          <p class="hodaya-cat-desc" style="">חליפות מרשימות לאירועים מיוחדים</p>
+          <p class="hodaya-cat-desc" >חליפות מרשימות לאירועים מיוחדים</p>
           <p><a href="/category/suits" class="hodaya-cat-btn" data-element-type="button" data-element-id="btn-1778523285363-j2ats5057" data-native-element="true" style="border-color: var(--primary-color, var(--primary, #8B0000)) !important; color: rgb(255, 255, 255) !important; background-color: var(--primary-color, var(--primary, #8B0000)) !important; background-image: none !important;">SHOP NOW</a>
         </p></div>
       </div>
@@ -1566,26 +1536,26 @@
         <!-- Profile avatar placeholder -->
         <div class="ig-avatar-wrap">
           <div class="ig-avatar-ring" aria-hidden="true"></div>
-          <div data-zappy-zoom-wrapper="true" data-element-id="img-1778370896561-87ujha7mj" data-element-type="image" data-zappy-zoom-wrapper-width="79px" data-zappy-zoom-wrapper-height="79px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 79px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 79px !important; display: block !important; padding-bottom: 0px !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true"><img class="ig-avatar-img" src="/assets/image-1778371721980-brsxpb.webp?v=1778371724128" alt="תמונת פרופיל הודיה באינסטגרם" data-placeholder="instagram-profile-avatar" data-context="Elegant boutique fashion brand profile photo, feminine and stylish, warm tones" data-zappy-editable-image="true" data-element-type="image" data-element-id="img-1778370896561-87ujha7mj" style="object-position: 50% 50% !important; width: 100% !important; height: 100% !important; object-fit: cover !important; max-width: 100% !important; display: block !important; margin: 0px !important; position: absolute !important; left: 0px !important; top: 0px !important; max-height: none !important" data-zappy-original-width="372" data-zappy-original-height="372" data-zappy-object-position="50% 50%" data-zappy-zoom="0.5"></div>
+          <div data-zappy-zoom-wrapper="true" data-element-id="img-1778370896561-87ujha7mj" data-element-type="image" data-zappy-zoom-wrapper-width="79px" data-zappy-zoom-wrapper-height="79px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 79px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 79px !important; display: block !important; padding-bottom: 0px !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true"><img class="ig-avatar-img" src="/assets/image-1778371721980-brsxpb.webp?v=1778371724128" alt="תמונת פרופיל הודיה באינסטגרם" data-placeholder="instagram-profile-avatar" data-context="Elegant boutique fashion brand profile photo, feminine and stylish, warm tones" data-element-type="image" data-element-id="img-1778370896561-87ujha7mj" style="object-position: 50% 50% !important; width: 100% !important; height: 100% !important; object-fit: cover !important; max-width: 100% !important; display: block !important; margin: 0px !important; position: absolute !important; left: 0px !important; top: 0px !important; max-height: none !important" data-zappy-original-width="372" data-zappy-original-height="372" data-zappy-object-position="50% 50%" data-zappy-zoom="0.5"></div>
         </div>
 
         <!-- Profile info -->
         <div class="ig-profile-info">
           <h3 class="ig-profile-name">הודיה</h3>
-          <p class="ig-profile-handle" style=""><a href="https://" target="_blank" rel="noopener noreferrer" style="color: rgb(0, 0, 0); text-decoration: underline; cursor: pointer;">@hodayaboutique_</a></p>
-          <p class="ig-profile-bio" style="">בוטיק אופנה נשי וצנוע✨ קולקציות חדשות כל הזמן 🛍️ משלוחים לכל הארץ</p>
+          <p class="ig-profile-handle" ><a href="https://" target="_blank" rel="noopener noreferrer" style="color: rgb(0, 0, 0); text-decoration: underline; cursor: pointer;">@hodayaboutique_</a></p>
+          <p class="ig-profile-bio" >בוטיק אופנה נשי וצנוע✨ קולקציות חדשות כל הזמן 🛍️ משלוחים לכל הארץ</p>
         </div>
       </div>
 
       <!-- Stats row -->
       <div class="ig-stats-row">
         <div class="ig-stat-item">
-          <span class="ig-stat-number" style="">50+</span>
-          <span class="ig-stat-label" style="">פוסטים</span>
+          <span class="ig-stat-number" >50+</span>
+          <span class="ig-stat-label" >פוסטים</span>
         </div>
         <div class="ig-stat-divider" aria-hidden="true"></div>
         <div class="ig-stat-item">
-          <span class="ig-stat-number" style="">1K+</span>
+          <span class="ig-stat-number" >1K+</span>
           <span class="ig-stat-label">עוקבות</span>
         </div>
         <div class="ig-stat-divider" aria-hidden="true"></div>
@@ -1607,14 +1577,14 @@
       
 
       <a href="https://instagram.com/hodayaboutique_?igsh=eXR1YjNqcmhjMWUy" target="_blank" rel="noopener noreferrer" class="ig-post-item ig-post-hide-mobile zappy-grid-item-no-stretch" aria-label="פוסט באינסטגרם 5" data-grid-item-index="1" data-zappy-has-aspect-ratio="true">
-        <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27400%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="פוסט אינסטגרם 5 - קולקציה עונתית" data-placeholder="instagram-post-5" data-context="Seasonal women's fashion collection display, boutique clothing rack, elegant and feminine, warm lighting" data-zappy-editable-image="true" style="">
+        <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27400%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="פוסט אינסטגרם 5 - קולקציה עונתית" data-placeholder="instagram-post-5" data-context="Seasonal women's fashion collection display, boutique clothing rack, elegant and feminine, warm lighting" >
         <div class="ig-post-overlay" aria-hidden="true">
           <svg class="ig-post-heart" viewBox="0 0 24 24" fill="white"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path></svg>
         </div>
       </a>
 
       <a href="https://instagram.com/hodayaboutique_?igsh=eXR1YjNqcmhjMWUy" target="_blank" rel="noopener noreferrer" class="ig-post-item ig-post-hide-mobile zappy-grid-item-no-stretch" aria-label="פוסט באינסטגרם 6" data-grid-item-index="2" data-zappy-has-aspect-ratio="true">
-        <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27400%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="פוסט אינסטגרם 6 - מאחורי הקלעים" data-placeholder="instagram-post-6" data-context="Behind the scenes boutique fashion shoot, stylish workspace with clothes and accessories, creative and feminine atmosphere" data-zappy-editable-image="true" style="">
+        <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27400%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="פוסט אינסטגרם 6 - מאחורי הקלעים" data-placeholder="instagram-post-6" data-context="Behind the scenes boutique fashion shoot, stylish workspace with clothes and accessories, creative and feminine atmosphere" >
         <div class="ig-post-overlay" aria-hidden="true">
           <svg class="ig-post-heart" viewBox="0 0 24 24" fill="white"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"></path></svg>
         </div>
@@ -1741,7 +1711,7 @@
         <a href="/" class="footer-logo-link">
           <img src="/assets/logo.webp" alt="הודיה" class="logo" data-zappy-footer-image="true">
         </a>
-        <p class="footer-tagline" style="">אופנה צנועה ומעוצבת לאישה המודרנית.<br>סגנון שמדבר בשקט.</p>
+        <p class="footer-tagline" >אופנה צנועה ומעוצבת לאישה המודרנית.<br>סגנון שמדבר בשקט.</p>
         <div class="footer-social">
           <a href="https://facebook.com/share/18k5xXj3Rq/?mibextid=wwXIfr" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
           <a href="https://www.instagram.com/hodayaboutique_?igsh=eXR1YjNqcmhjMWUy&amp;utm_source=qr" aria-label="Instagram" data-zappy-original-link="true" data-zappy-orig-href="https://instagram.com/hodayaboutique_?igsh=eXR1YjNqcmhjMWUy&amp;utm_source=qr" data-zappy-orig-target="" data-zappy-orig-rel="" data-zappy-click-action="link" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram" data-element-type="icon" data-element-id="icon-1778220703400-twdiq7wuw" data-icon-type="fontawesome" style="font-size: 12px !important; color: rgb(255, 255, 255); cursor: pointer;" data-zappy-click-action="link"></i></a>
@@ -1769,7 +1739,7 @@
           </li>
           <li>
             <span class="contact-icon"><i class="fas fa-phone" data-element-type="icon" data-element-id="icon-1778002937144-pmtfgv27x" data-icon-type="fontawesome"></i></span>
-            <span class="contact-text"><a href="tel:972557756758" style="">0557756758<br><br></a></span>
+            <span class="contact-text"><a href="tel:972557756758" >0557756758<br><br></a></span>
           </li>
           <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
             <span class="contact-text">גבע 53, נתניה, ישראל, 4237353, ישראל</span></a></li>
@@ -1790,7 +1760,7 @@
     <!-- Bottom Bar -->
     <div class="footer-bottom">
       <p class="footer-copy">© 2026 הודיה. כל הזכויות שמורות.</p>
-      <div class="footer-legal" style="">
+      <div class="footer-legal" >
         <a href="/privacy">מדיניות פרטיות</a>
         <span class="footer-legal-sep"></span>
         <a href="/terms">תנאי שימוש</a><span class="separator">|</span>
