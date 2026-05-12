@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-05-12T11:56:30.276Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-05-12T11:56:59.906Z",
+  "base_url": "https://hodaya.zappy5.app",
   "currency": "ILS",
   "count": 39,
   "products": [
@@ -19,14 +19,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778505469455-1bu2ja.webp",
-        "https://example.com/assets/product-ai-fit-1778505529178-2ibx7.webp",
-        "https://example.com/assets/product-ai-fit-1778505499290-nc8ku9.webp",
-        "https://example.com/assets/product-ai-fit-1778505557991-uq68u.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778505469455-1bu2ja.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778505529178-2ibx7.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778505499290-nc8ku9.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778505557991-uq68u.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-mvnh-chvmh-1lfuqu",
+      "url": "https://hodaya.zappy5.app/product/shmlt-mvnh-chvmh-1lfuqu",
       "categories": [
         "שמלות ערב"
       ],
@@ -46,11 +46,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778391634332-bk88gm.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778391634332-bk88gm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chtsayt-byysyk-vrvdh-6m3g5y",
+      "url": "https://hodaya.zappy5.app/product/chtsayt-byysyk-vrvdh-6m3g5y",
       "categories": [
         "חצאיות"
       ],
@@ -70,11 +70,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778391443200-i59mto.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778391443200-i59mto.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chtsayt-byysyk-chvm-6it5x1",
+      "url": "https://hodaya.zappy5.app/product/chtsayt-byysyk-chvm-6it5x1",
       "categories": [],
       "updated_at": "2026-05-10T05:38:01.125Z"
     },
@@ -92,11 +92,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778391286971-bmnvid.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778391286971-bmnvid.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chtsayt-byysyk-apvrh-8gq3wx",
+      "url": "https://hodaya.zappy5.app/product/chtsayt-byysyk-apvrh-8gq3wx",
       "categories": [
         "חצאיות"
       ],
@@ -116,11 +116,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778390993531-b52bq9.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778390993531-b52bq9.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chtsayt-byysyk-tshvbh-c53fkl",
+      "url": "https://hodaya.zappy5.app/product/chtsayt-byysyk-tshvbh-c53fkl",
       "categories": [
         "חצאיות"
       ],
@@ -140,11 +140,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778358932057-qrmozh.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778358932057-qrmozh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chtsayt-aysmtryt-xugk26",
+      "url": "https://hodaya.zappy5.app/product/chtsayt-aysmtryt-xugk26",
       "categories": [
         "חצאיות"
       ],
@@ -164,12 +164,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778250544842-iceweh.webp",
-        "https://example.com/assets/product-1778250512822-90rnzr.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778250544842-iceweh.webp",
+        "https://hodaya.zappy5.app/assets/product-1778250512822-90rnzr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/bgd-gvp-skyl-shchvr-ar34vx",
+      "url": "https://hodaya.zappy5.app/product/bgd-gvp-skyl-shchvr-ar34vx",
       "categories": [
         "חולצות"
       ],
@@ -189,12 +189,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778250344389-z8fxxo.webp",
-        "https://example.com/assets/product-1778250317253-egpf0b.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778250344389-z8fxxo.webp",
+        "https://hodaya.zappy5.app/assets/product-1778250317253-egpf0b.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/bgd-gvp-skyl-lbn-3ogdxs",
+      "url": "https://hodaya.zappy5.app/product/bgd-gvp-skyl-lbn-3ogdxs",
       "categories": [
         "חולצות"
       ],
@@ -214,12 +214,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778250041274-wg2k7.webp",
-        "https://example.com/assets/product-ai-fit-1778250118766-jl3pnj.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778250041274-wg2k7.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778250118766-jl3pnj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-kyvvtsym-lsjbw0",
+      "url": "https://hodaya.zappy5.app/product/shmlt-kyvvtsym-lsjbw0",
       "categories": [
         "שמלות ערב",
         "שמלות"
@@ -240,14 +240,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778247159719-0jssq.webp",
-        "https://example.com/assets/product-ai-fit-1778247191681-4lotxo.webp",
-        "https://example.com/assets/product-1778246886580-8e8fzk.webp",
-        "https://example.com/assets/product-1778246892131-ql0xcgr.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778247159719-0jssq.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778247191681-4lotxo.webp",
+        "https://hodaya.zappy5.app/assets/product-1778246886580-8e8fzk.webp",
+        "https://hodaya.zappy5.app/assets/product-1778246892131-ql0xcgr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlyph-chtsayt-lvlavt-bz-rrrm0g",
+      "url": "https://hodaya.zappy5.app/product/chlyph-chtsayt-lvlavt-bz-rrrm0g",
       "categories": [
         "חליפות"
       ],
@@ -267,14 +267,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778246554501-qr85wq.webp",
-        "https://example.com/assets/product-ai-fit-1778246582698-hwlt6l.webp",
-        "https://example.com/assets/product-ai-fit-1778246637473-iyk9jai.webp",
-        "https://example.com/assets/product-ai-fit-1778246609090-tthvqp.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778246554501-qr85wq.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778246582698-hwlt6l.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778246637473-iyk9jai.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778246609090-tthvqp.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd",
+      "url": "https://hodaya.zappy5.app/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd",
       "categories": [
         "חליפות"
       ],
@@ -294,12 +294,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778249215753-zvolbp.webp",
-        "https://example.com/assets/product-ai-fit-1778249244013-rj8g8r.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778249215753-zvolbp.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778249244013-rj8g8r.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chtsayt-arb-shchvr-zborlx",
+      "url": "https://hodaya.zappy5.app/product/chtsayt-arb-shchvr-zborlx",
       "categories": [
         "חצאיות"
       ],
@@ -319,12 +319,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778245057328-d6he7h.webp",
-        "https://example.com/assets/product-ai-fit-1778245138334-kw4bvu.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778245057328-d6he7h.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778245138334-kw4bvu.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chtsayt-arb-lbnh-fwtckb",
+      "url": "https://hodaya.zappy5.app/product/chtsayt-arb-lbnh-fwtckb",
       "categories": [
         "חצאיות"
       ],
@@ -344,13 +344,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778245888741-mbwpo.webp",
-        "https://example.com/assets/product-ai-fit-1778245948485-vv0prc.webp",
-        "https://example.com/assets/product-1778245800285-rmgnmc.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778245888741-mbwpo.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778245948485-vv0prc.webp",
+        "https://hodaya.zappy5.app/assets/product-1778245800285-rmgnmc.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlypt-lvrn-bz-nmjmc5",
+      "url": "https://hodaya.zappy5.app/product/chlypt-lvrn-bz-nmjmc5",
       "categories": [
         "חליפות"
       ],
@@ -370,14 +370,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778245544470-ihf75yr.webp",
-        "https://example.com/assets/product-ai-fit-1778245662887-gmf0oe.webp",
-        "https://example.com/assets/product-ai-fit-1778245632141-8808xa.webp",
-        "https://example.com/assets/product-ai-fit-1778245602779-dx3lk5.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778245544470-ihf75yr.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778245662887-gmf0oe.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778245632141-8808xa.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778245602779-dx3lk5.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlypt-lvrn-vrvd-xbtgm0",
+      "url": "https://hodaya.zappy5.app/product/chlypt-lvrn-vrvd-xbtgm0",
       "categories": [
         "חליפות"
       ],
@@ -397,13 +397,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778244892803-ymau0l.webp",
-        "https://example.com/assets/product-ai-fit-1778244923310-cjz6n7h.webp",
-        "https://example.com/assets/product-ai-fit-1778244866614-51dwsq.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778244892803-ymau0l.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778244923310-cjz6n7h.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778244866614-51dwsq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-klrys-shchvr-ddhzid",
+      "url": "https://hodaya.zappy5.app/product/shmlt-klrys-shchvr-ddhzid",
       "categories": [
         "שמלות",
         "שמלות ערב"
@@ -424,13 +424,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778243914784-ctvseo.webp",
-        "https://example.com/assets/product-ai-fit-1778243948168-z5sel.webp",
-        "https://example.com/assets/product-ai-fit-1778243975097-9tcf9n.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778243914784-ctvseo.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778243948168-z5sel.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778243975097-9tcf9n.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chlypt-arykh-shchvr-bj5y1d",
+      "url": "https://hodaya.zappy5.app/product/chlypt-arykh-shchvr-bj5y1d",
       "categories": [
         "חליפות"
       ],
@@ -450,13 +450,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778238608480-m9suh.webp",
-        "https://example.com/assets/product-ai-fit-1778238639582-fjaoco.webp",
-        "https://example.com/assets/product-ai-fit-1778238690327-37cq6b.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778238608480-m9suh.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778238639582-fjaoco.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778238690327-37cq6b.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-mvnh-g0x9m7",
+      "url": "https://hodaya.zappy5.app/product/shmlt-mvnh-g0x9m7",
       "categories": [
         "שמלות ערב",
         "שמלות"
@@ -477,14 +477,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778237250713-buobfk.webp",
-        "https://example.com/assets/product-ai-fit-1778237289762-e4rtsl.webp",
-        "https://example.com/assets/product-ai-fit-1778237473997-65ez.webp",
-        "https://example.com/assets/product-ai-fit-1778237438342-xadyx.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778237250713-buobfk.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778237289762-e4rtsl.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778237473997-65ez.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778237438342-xadyx.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmchh-tchrh-shchvrh-dx1nj6",
+      "url": "https://hodaya.zappy5.app/product/shmchh-tchrh-shchvrh-dx1nj6",
       "categories": [
         "שמלות ערב",
         "שמלות"
@@ -505,14 +505,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778236118375-gmp577.webp",
-        "https://example.com/assets/product-ai-fit-1778236150922-n1xb6t.webp",
-        "https://example.com/assets/product-ai-fit-1778236240732-6245x.webp",
-        "https://example.com/assets/product-ai-fit-1778236191610-27befo.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778236118375-gmp577.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778236150922-n1xb6t.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778236240732-6245x.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778236191610-27befo.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/ty-shrt-nvbh-chmah-eqt453",
+      "url": "https://hodaya.zappy5.app/product/ty-shrt-nvbh-chmah-eqt453",
       "categories": [
         "חולצות"
       ],
@@ -532,13 +532,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778235689759-aglrrc.webp",
-        "https://example.com/assets/product-ai-fit-1778235837885-vzlshd.webp",
-        "https://example.com/assets/product-ai-fit-1778235797062-112hyb.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778235689759-aglrrc.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778235837885-vzlshd.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778235797062-112hyb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/ty-shrt-nvbh-shchvr-c2lsbq",
+      "url": "https://hodaya.zappy5.app/product/ty-shrt-nvbh-shchvr-c2lsbq",
       "categories": [
         "חולצות"
       ],
@@ -558,12 +558,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778235103282-fpqxtu.webp",
-        "https://example.com/assets/product-ai-fit-1778235146474-r2ke5.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778235103282-fpqxtu.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778235146474-r2ke5.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/tyshrt-nvbh-hplubo",
+      "url": "https://hodaya.zappy5.app/product/tyshrt-nvbh-hplubo",
       "categories": [
         "חולצות"
       ],
@@ -583,13 +583,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778234861038-juorh.webp",
-        "https://example.com/assets/product-ai-fit-1778234831980-vi3ljo.webp",
-        "https://example.com/assets/product-ai-fit-1778234943253-iqc2ik.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234861038-juorh.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234831980-vi3ljo.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234943253-iqc2ik.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-ayydn-kchvl-3f1c1h",
+      "url": "https://hodaya.zappy5.app/product/shmlt-ayydn-kchvl-3f1c1h",
       "categories": [
         "שמלות"
       ],
@@ -609,13 +609,13 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778234567874-f47clc.webp",
-        "https://example.com/assets/product-ai-fit-1778234526291-6hq5mx.webp",
-        "https://example.com/assets/product-ai-fit-1778234605310-crht8.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234567874-f47clc.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234526291-6hq5mx.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234605310-crht8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-ayydn-shchvr-jbr0uw",
+      "url": "https://hodaya.zappy5.app/product/shmlt-ayydn-shchvr-jbr0uw",
       "categories": [
         "שמלות"
       ],
@@ -635,14 +635,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778234036152-hdayh.webp",
-        "https://example.com/assets/product-ai-fit-1778234065138-ygfnoc.webp",
-        "https://example.com/assets/product-ai-fit-1778234181754-josb5h.webp",
-        "https://example.com/assets/product-ai-fit-1778234208964-k3v7l.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234036152-hdayh.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234065138-ygfnoc.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234181754-josb5h.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778234208964-k3v7l.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-kyyty-lbn-gfyiji",
+      "url": "https://hodaya.zappy5.app/product/shmlt-kyyty-lbn-gfyiji",
       "categories": [
         "שמלות ערב",
         "שמלות"
@@ -663,12 +663,12 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778233802296-1m59a.webp",
-        "https://example.com/assets/product-ai-fit-1778233836628-ewji0x.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778233802296-1m59a.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778233836628-ewji0x.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-kyyty-shchvr-3d838q",
+      "url": "https://hodaya.zappy5.app/product/shmlt-kyyty-shchvr-3d838q",
       "categories": [
         "שמלות ערב",
         "שמלות"
@@ -689,11 +689,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1778070841150-j5bf8.webp"
+        "https://hodaya.zappy5.app/assets/product-enhanced-1778070841150-j5bf8.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/ann-kkav-ez3pfy",
+      "url": "https://hodaya.zappy5.app/product/ann-kkav-ez3pfy",
       "categories": [
         "חליפות"
       ],
@@ -713,11 +713,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778184386065-pjoh5h.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778184386065-pjoh5h.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/lbn-pshtn-algnt-psaj0s",
+      "url": "https://hodaya.zappy5.app/product/lbn-pshtn-algnt-psaj0s",
       "categories": [
         "חליפות"
       ],
@@ -737,11 +737,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778522951748-w7fnh.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778522951748-w7fnh.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/krn-shmsh-icc466",
+      "url": "https://hodaya.zappy5.app/product/krn-shmsh-icc466",
       "categories": [
         "חליפות"
       ],
@@ -761,11 +761,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778184580192-cbezik.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778184580192-cbezik.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/avr-lbn-8h2blu",
+      "url": "https://hodaya.zappy5.app/product/avr-lbn-8h2blu",
       "categories": [
         "חולצות"
       ],
@@ -785,11 +785,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778184677416-c99jdk.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778184677416-c99jdk.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/ppyvn-tklt-5c9ctg",
+      "url": "https://hodaya.zappy5.app/product/ppyvn-tklt-5c9ctg",
       "categories": [
         "חליפות"
       ],
@@ -809,11 +809,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778184775690-vj6vgj.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778184775690-vj6vgj.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/pynk-shyk-zj9yd7",
+      "url": "https://hodaya.zappy5.app/product/pynk-shyk-zj9yd7",
       "categories": [
         "חליפות"
       ],
@@ -833,11 +833,11 @@
       "sale_price": 189,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778184852271-k70vdq.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778184852271-k70vdq.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/lvryan-tchrh-lbnh-pdgjo7",
+      "url": "https://hodaya.zappy5.app/product/lvryan-tchrh-lbnh-pdgjo7",
       "categories": [
         "חליפות"
       ],
@@ -857,11 +857,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778184955654-yyp7j.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778184955654-yyp7j.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/avr-lyly-hdyav5",
+      "url": "https://hodaya.zappy5.app/product/avr-lyly-hdyav5",
       "categories": [
         "חליפות"
       ],
@@ -881,11 +881,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778185028317-b5zptr.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778185028317-b5zptr.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chvltst-nvah-byysyk-mldsns",
+      "url": "https://hodaya.zappy5.app/product/chvltst-nvah-byysyk-mldsns",
       "categories": [
         "חולצות"
       ],
@@ -905,11 +905,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778185335404-cdvyg.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778185335404-cdvyg.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl",
+      "url": "https://hodaya.zappy5.app/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl",
       "categories": [
         "חצאיות"
       ],
@@ -929,14 +929,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778185713440-uye92d.webp",
-        "https://example.com/assets/product-ai-fit-1778185570409-si5d5.webp",
-        "https://example.com/assets/product-ai-fit-1778185686500-id9k9n.webp",
-        "https://example.com/assets/product-ai-fit-1778185623231-dt7rb.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778185713440-uye92d.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778185570409-si5d5.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778185686500-id9k9n.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778185623231-dt7rb.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-nvam-mwff14",
+      "url": "https://hodaya.zappy5.app/product/shmlt-nvam-mwff14",
       "categories": [
         "שמלות ערב",
         "שמלות"
@@ -957,14 +957,14 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-ai-fit-1778186037939-raxyi.webp",
-        "https://example.com/assets/product-ai-fit-1778186067553-u93ft.webp",
-        "https://example.com/assets/product-ai-fit-1778186176010-jbmlyt.webp",
-        "https://example.com/assets/product-ai-fit-1778186152643-vodm8q.webp"
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778186037939-raxyi.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778186067553-u93ft.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778186176010-jbmlyt.webp",
+        "https://hodaya.zappy5.app/assets/product-ai-fit-1778186152643-vodm8q.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shmlt-amvr-shkoqq",
+      "url": "https://hodaya.zappy5.app/product/shmlt-amvr-shkoqq",
       "categories": [
         "שמלות",
         "שמלות ערב"
@@ -985,11 +985,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/product-enhanced-1778072447091-jm59or.webp"
+        "https://hodaya.zappy5.app/assets/product-enhanced-1778072447091-jm59or.webp"
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://example.com/product/chlypt-yryn-ppkemf",
+      "url": "https://hodaya.zappy5.app/product/chlypt-yryn-ppkemf",
       "categories": [
         "חליפות"
       ],

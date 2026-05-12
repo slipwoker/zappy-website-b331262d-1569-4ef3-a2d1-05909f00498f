@@ -2,13 +2,13 @@
 
 An online clothing store catering specifically to religious women, focusing on modest fashion that combines style with religious values. The brand serves a niche market that values both elegance and modesty in dress, offering clothing that adheres to religious dress codes while remaining fashionable and contemporary.
 
-Source: https://example.com
+Source: https://hodaya.zappy5.app
 
 ---
 
 ## הודיה בוטיק
 
-URL: https://example.com
+URL: https://hodaya.zappy5.app
 Description: הודיה בוטיק — אופנה צנועה לנשים עם סטייל אלגנטי. שמלות, חליפות וביגוד לנשים שאוהבות צניעות בסטייל ומשלוחים עד הבית
 
 הודיה בוטיק
@@ -540,7 +540,7 @@ SHOP NOW
 
 ## מוצרים
 
-URL: https://example.com/products
+URL: https://hodaya.zappy5.app/products
 Description: המוצרים שלנו - הודיה
 
 מוצרים - הודיה
@@ -795,7 +795,7 @@ Description: המוצרים שלנו - הודיה
 
 ## עגלת קניות
 
-URL: https://example.com/cart
+URL: https://hodaya.zappy5.app/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - הודיה
@@ -1026,7 +1026,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://example.com/checkout
+URL: https://hodaya.zappy5.app/checkout
 Description: תשלום
 
 תשלום - הודיה
@@ -1440,7 +1440,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://example.com/login
+URL: https://hodaya.zappy5.app/login
 Description: התחברות לקוחות
 
 התחברות - הודיה
@@ -1678,7 +1678,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://example.com/account
+URL: https://hodaya.zappy5.app/account
 Description: החשבון שלי
 
 החשבון שלי - הודיה
@@ -2071,7 +2071,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://example.com/order-success
+URL: https://hodaya.zappy5.app/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - הודיה
@@ -2326,7 +2326,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://example.com/return-policy
+URL: https://hodaya.zappy5.app/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - הודיה
@@ -2610,7 +2610,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://example.com/product/:slug
+URL: https://hodaya.zappy5.app/product/:slug
 Description: פרטי המוצר - הודיה
 
 פרטי המוצר - הודיה
@@ -2843,7 +2843,7 @@ Description: פרטי המוצר - הודיה
 
 ## מוצרים
 
-URL: https://example.com/category/:slug
+URL: https://hodaya.zappy5.app/category/:slug
 Description: מוצרים - הודיה
 
 מוצרים - הודיה
@@ -3100,7 +3100,7 @@ Description: מוצרים - הודיה
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://hodaya.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3414,7 +3414,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://hodaya.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3737,7 +3737,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://hodaya.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -4079,7 +4079,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## הסיפור שמאחורי האופנה הצנועה שאוהבים — הודיה
 
-URL: https://example.com/about
+URL: https://hodaya.zappy5.app/about
 Description: הודיה נולדה מתוך חזון אחד: להוכיח שצניעות ואופנה הולכות יד ביד. הכירי את הצוות שמאחורי המותג, הערכים שמנחים אותנו והדרך שעברנו כדי לשרת נשים דתיות בסטייל.
 
 הסיפור שמאחורי האופנה הצנועה שאוהבים — הודיה
@@ -4512,7 +4512,7 @@ Description: הודיה נולדה מתוך חזון אחד: להוכיח שצנ
 
 ## לבשי נכון בכל אירוע עם המדריך שלנו — הודיה
 
-URL: https://example.com/style-guide
+URL: https://hodaya.zappy5.app/style-guide
 Description: מדריך הסגנון של הודיה נותן לך כלים מעשיים לבחור לבוש צנוע אופנתי לכל מצב — מהיומיום ועד אירועים חגיגיים. גלי כיצד להרכיב תלבושות שמשדרות ביטחון ויופי אמיתי.
 
 לבשי נכון בכל אירוע עם המדריך שלנו — הודיה
@@ -5106,7 +5106,7 @@ Description: מדריך הסגנון של הודיה נותן לך כלים מע
 
 ## דברי איתנו ותמצאי את הלוק המושלם — הודיה
 
-URL: https://example.com/contact
+URL: https://hodaya.zappy5.app/contact
 Description: יש שאלה על מידות, סגנון או הזמנה? צוות הודיה כאן בשבילך! צרי קשר עכשיו ונעזור לך למצוא את הבגד הצנוע והאופנתי שתמיד חלמת עליו — שירות אישי וחם מחכה לך.
 
 דברי איתנו ותמצאי את הלוק המושלם — הודיה
@@ -5729,273 +5729,273 @@ Hodayasuissa5@gmail.com
 ## Product Catalog
 
 ### שמלת מונה חומה
-URL: https://example.com/product/shmlt-mvnh-chvmh-1lfuqu
+URL: https://hodaya.zappy5.app/product/shmlt-mvnh-chvmh-1lfuqu
 Price: 439.00 ILS
 Availability: In stock
 
 ---
 
 ### חצאית בייסיק ורודה 
-URL: https://example.com/product/chtsayt-byysyk-vrvdh-6m3g5y
+URL: https://hodaya.zappy5.app/product/chtsayt-byysyk-vrvdh-6m3g5y
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### חצאית בייסיק חום
-URL: https://example.com/product/chtsayt-byysyk-chvm-6it5x1
+URL: https://hodaya.zappy5.app/product/chtsayt-byysyk-chvm-6it5x1
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### חצאית בייסיק אפורה
-URL: https://example.com/product/chtsayt-byysyk-apvrh-8gq3wx
+URL: https://hodaya.zappy5.app/product/chtsayt-byysyk-apvrh-8gq3wx
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### חצאית בייסיק צהובה
-URL: https://example.com/product/chtsayt-byysyk-tshvbh-c53fkl
+URL: https://hodaya.zappy5.app/product/chtsayt-byysyk-tshvbh-c53fkl
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### חצאית איסמטרית
-URL: https://example.com/product/chtsayt-aysmtryt-xugk26
+URL: https://hodaya.zappy5.app/product/chtsayt-aysmtryt-xugk26
 Price: 99.00 ILS
 Availability: In stock
 
 ---
 
 ### בגד גוף סקיל שחור
-URL: https://example.com/product/bgd-gvp-skyl-shchvr-ar34vx
+URL: https://hodaya.zappy5.app/product/bgd-gvp-skyl-shchvr-ar34vx
 Price: 120.00 ILS
 Availability: In stock
 
 ---
 
 ### בגד גוף סקיל לבן
-URL: https://example.com/product/bgd-gvp-skyl-lbn-3ogdxs
+URL: https://hodaya.zappy5.app/product/bgd-gvp-skyl-lbn-3ogdxs
 Price: 120.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת כיווצים
-URL: https://example.com/product/shmlt-kyvvtsym-lsjbw0
+URL: https://hodaya.zappy5.app/product/shmlt-kyvvtsym-lsjbw0
 Price: 169.00 ILS
 Availability: In stock
 
 ---
 
 ### חליפה חצאית לולאות ב׳ז
-URL: https://example.com/product/chlyph-chtsayt-lvlavt-bz-rrrm0g
+URL: https://hodaya.zappy5.app/product/chlyph-chtsayt-lvlavt-bz-rrrm0g
 Price: 219.00 ILS
 Availability: In stock
 
 ---
 
 ### חליפת חצאית לולאות שחור
-URL: https://example.com/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd
+URL: https://hodaya.zappy5.app/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd
 Price: 219.00 ILS
 Availability: In stock
 
 ---
 
 ### חצאית ערב שחור
-URL: https://example.com/product/chtsayt-arb-shchvr-zborlx
+URL: https://hodaya.zappy5.app/product/chtsayt-arb-shchvr-zborlx
 Price: 359.00 ILS
 Availability: In stock
 
 ---
 
 ### חצאית ערב לבנה
-URL: https://example.com/product/chtsayt-arb-lbnh-fwtckb
+URL: https://hodaya.zappy5.app/product/chtsayt-arb-lbnh-fwtckb
 Price: 349.00 ILS
 Availability: In stock
 
 ---
 
 ### חליפת לורן ב׳ז
-URL: https://example.com/product/chlypt-lvrn-bz-nmjmc5
+URL: https://hodaya.zappy5.app/product/chlypt-lvrn-bz-nmjmc5
 Price: 219.00 ILS
 Availability: In stock
 
 ---
 
 ### חליפת לורן ורוד
-URL: https://example.com/product/chlypt-lvrn-vrvd-xbtgm0
+URL: https://hodaya.zappy5.app/product/chlypt-lvrn-vrvd-xbtgm0
 Price: 259.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת קלריס שחור
-URL: https://example.com/product/shmlt-klrys-shchvr-ddhzid
+URL: https://hodaya.zappy5.app/product/shmlt-klrys-shchvr-ddhzid
 Price: 299.00 ILS
 Availability: In stock
 
 ---
 
 ### חליפת אריקה שחור
-URL: https://example.com/product/chlypt-arykh-shchvr-bj5y1d
+URL: https://hodaya.zappy5.app/product/chlypt-arykh-shchvr-bj5y1d
 Price: 369.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת מונה
-URL: https://example.com/product/shmlt-mvnh-g0x9m7
+URL: https://hodaya.zappy5.app/product/shmlt-mvnh-g0x9m7
 Price: 439.00 ILS
 Availability: In stock
 
 ---
 
 ### שמחה תחרה שחורה
-URL: https://example.com/product/shmchh-tchrh-shchvrh-dx1nj6
+URL: https://hodaya.zappy5.app/product/shmchh-tchrh-shchvrh-dx1nj6
 Price: 249.00 ILS
 Availability: In stock
 
 ---
 
 ### טי שרט נובה חמאה
-URL: https://example.com/product/ty-shrt-nvbh-chmah-eqt453
+URL: https://hodaya.zappy5.app/product/ty-shrt-nvbh-chmah-eqt453
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### טי שרט נובה שחור
-URL: https://example.com/product/ty-shrt-nvbh-shchvr-c2lsbq
+URL: https://hodaya.zappy5.app/product/ty-shrt-nvbh-shchvr-c2lsbq
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### טישרט נובה
-URL: https://example.com/product/tyshrt-nvbh-hplubo
+URL: https://hodaya.zappy5.app/product/tyshrt-nvbh-hplubo
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת איידן כחול
-URL: https://example.com/product/shmlt-ayydn-kchvl-3f1c1h
+URL: https://hodaya.zappy5.app/product/shmlt-ayydn-kchvl-3f1c1h
 Price: 279.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת איידן שחור
-URL: https://example.com/product/shmlt-ayydn-shchvr-jbr0uw
+URL: https://hodaya.zappy5.app/product/shmlt-ayydn-shchvr-jbr0uw
 Price: 279.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת קייטי לבן
-URL: https://example.com/product/shmlt-kyyty-lbn-gfyiji
+URL: https://hodaya.zappy5.app/product/shmlt-kyyty-lbn-gfyiji
 Price: 349.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת קייטי שחור
-URL: https://example.com/product/shmlt-kyyty-shchvr-3d838q
+URL: https://hodaya.zappy5.app/product/shmlt-kyyty-shchvr-3d838q
 Price: 349.00 ILS
 Availability: In stock
 
 ---
 
 ### ענן קקאו
-URL: https://example.com/product/ann-kkav-ez3pfy
+URL: https://hodaya.zappy5.app/product/ann-kkav-ez3pfy
 Price: 159.00 ILS
 Availability: In stock
 
 ---
 
 ### לבן פשתן אלגנט
-URL: https://example.com/product/lbn-pshtn-algnt-psaj0s
+URL: https://hodaya.zappy5.app/product/lbn-pshtn-algnt-psaj0s
 Price: 159.00 ILS
 Availability: In stock
 
 ---
 
 ### קרן שמש
-URL: https://example.com/product/krn-shmsh-icc466
+URL: https://hodaya.zappy5.app/product/krn-shmsh-icc466
 Price: 159.00 ILS
 Availability: In stock
 
 ---
 
 ### אור לבן
-URL: https://example.com/product/avr-lbn-8h2blu
+URL: https://hodaya.zappy5.app/product/avr-lbn-8h2blu
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### פפיון תכלת
-URL: https://example.com/product/ppyvn-tklt-5c9ctg
+URL: https://hodaya.zappy5.app/product/ppyvn-tklt-5c9ctg
 Price: 169.00 ILS
 Availability: In stock
 
 ---
 
 ### פינק שיק
-URL: https://example.com/product/pynk-shyk-zj9yd7
+URL: https://hodaya.zappy5.app/product/pynk-shyk-zj9yd7
 Price: 169.00 ILS
 Availability: In stock
 
 ---
 
 ### לוריאן תחרה לבנה
-URL: https://example.com/product/lvryan-tchrh-lbnh-pdgjo7
+URL: https://hodaya.zappy5.app/product/lvryan-tchrh-lbnh-pdgjo7
 Price: 189.00 ILS (sale, was 199.00 ILS)
 Availability: In stock
 
 ---
 
 ### אור לילי
-URL: https://example.com/product/avr-lyly-hdyav5
+URL: https://hodaya.zappy5.app/product/avr-lyly-hdyav5
 Price: 179.00 ILS
 Availability: In stock
 
 ---
 
 ### חולצת נועה בייסיק
-URL: https://example.com/product/chvltst-nvah-byysyk-mldsns
+URL: https://hodaya.zappy5.app/product/chvltst-nvah-byysyk-mldsns
 Price: 69.00 ILS
 Availability: In stock
 
 ---
 
 ### חצאית לוריין תחרה שחורה
-URL: https://example.com/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl
+URL: https://hodaya.zappy5.app/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl
 Price: 99.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת נועם
-URL: https://example.com/product/shmlt-nvam-mwff14
+URL: https://hodaya.zappy5.app/product/shmlt-nvam-mwff14
 Price: 169.00 ILS
 Availability: In stock
 
 ---
 
 ### שמלת אמור
-URL: https://example.com/product/shmlt-amvr-shkoqq
+URL: https://hodaya.zappy5.app/product/shmlt-amvr-shkoqq
 Price: 169.00 ILS
 Availability: In stock
 
 ---
 
 ### חליפת ירין
-URL: https://example.com/product/chlypt-yryn-ppkemf
+URL: https://hodaya.zappy5.app/product/chlypt-yryn-ppkemf
 Price: 169.00 ILS
 Availability: Out of stock
 

@@ -1,325 +1,325 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com</loc>
+    <loc>https://hodaya.zappy5.app</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/products</loc>
+    <loc>https://hodaya.zappy5.app/products</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/cart</loc>
+    <loc>https://hodaya.zappy5.app/cart</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/checkout</loc>
+    <loc>https://hodaya.zappy5.app/checkout</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/login</loc>
+    <loc>https://hodaya.zappy5.app/login</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/account</loc>
+    <loc>https://hodaya.zappy5.app/account</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/order-success</loc>
+    <loc>https://hodaya.zappy5.app/order-success</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/product/:slug</loc>
+    <loc>https://hodaya.zappy5.app/product/:slug</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/category/:slug</loc>
+    <loc>https://hodaya.zappy5.app/category/:slug</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/about</loc>
+    <loc>https://hodaya.zappy5.app/about</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/style-guide</loc>
+    <loc>https://hodaya.zappy5.app/style-guide</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
+    <loc>https://hodaya.zappy5.app/contact</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
-    <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.com/terms</loc>
+    <loc>https://hodaya.zappy5.app/privacy</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
+    <loc>https://hodaya.zappy5.app/terms</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-mvnh-chvmh-1lfuqu</loc>
+    <loc>https://hodaya.zappy5.app/accessibility</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://hodaya.zappy5.app/product/shmlt-mvnh-chvmh-1lfuqu</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chtsayt-byysyk-vrvdh-6m3g5y</loc>
+    <loc>https://hodaya.zappy5.app/product/chtsayt-byysyk-vrvdh-6m3g5y</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chtsayt-byysyk-chvm-6it5x1</loc>
+    <loc>https://hodaya.zappy5.app/product/chtsayt-byysyk-chvm-6it5x1</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chtsayt-byysyk-apvrh-8gq3wx</loc>
+    <loc>https://hodaya.zappy5.app/product/chtsayt-byysyk-apvrh-8gq3wx</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chtsayt-byysyk-tshvbh-c53fkl</loc>
+    <loc>https://hodaya.zappy5.app/product/chtsayt-byysyk-tshvbh-c53fkl</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chtsayt-aysmtryt-xugk26</loc>
+    <loc>https://hodaya.zappy5.app/product/chtsayt-aysmtryt-xugk26</loc>
     <lastmod>2026-05-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/bgd-gvp-skyl-shchvr-ar34vx</loc>
+    <loc>https://hodaya.zappy5.app/product/bgd-gvp-skyl-shchvr-ar34vx</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/bgd-gvp-skyl-lbn-3ogdxs</loc>
+    <loc>https://hodaya.zappy5.app/product/bgd-gvp-skyl-lbn-3ogdxs</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-kyvvtsym-lsjbw0</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-kyvvtsym-lsjbw0</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chlyph-chtsayt-lvlavt-bz-rrrm0g</loc>
+    <loc>https://hodaya.zappy5.app/product/chlyph-chtsayt-lvlavt-bz-rrrm0g</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd</loc>
+    <loc>https://hodaya.zappy5.app/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chtsayt-arb-shchvr-zborlx</loc>
+    <loc>https://hodaya.zappy5.app/product/chtsayt-arb-shchvr-zborlx</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chtsayt-arb-lbnh-fwtckb</loc>
+    <loc>https://hodaya.zappy5.app/product/chtsayt-arb-lbnh-fwtckb</loc>
     <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chlypt-lvrn-bz-nmjmc5</loc>
+    <loc>https://hodaya.zappy5.app/product/chlypt-lvrn-bz-nmjmc5</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chlypt-lvrn-vrvd-xbtgm0</loc>
+    <loc>https://hodaya.zappy5.app/product/chlypt-lvrn-vrvd-xbtgm0</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-klrys-shchvr-ddhzid</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-klrys-shchvr-ddhzid</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chlypt-arykh-shchvr-bj5y1d</loc>
+    <loc>https://hodaya.zappy5.app/product/chlypt-arykh-shchvr-bj5y1d</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-mvnh-g0x9m7</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-mvnh-g0x9m7</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmchh-tchrh-shchvrh-dx1nj6</loc>
+    <loc>https://hodaya.zappy5.app/product/shmchh-tchrh-shchvrh-dx1nj6</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/ty-shrt-nvbh-chmah-eqt453</loc>
+    <loc>https://hodaya.zappy5.app/product/ty-shrt-nvbh-chmah-eqt453</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/ty-shrt-nvbh-shchvr-c2lsbq</loc>
+    <loc>https://hodaya.zappy5.app/product/ty-shrt-nvbh-shchvr-c2lsbq</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/tyshrt-nvbh-hplubo</loc>
+    <loc>https://hodaya.zappy5.app/product/tyshrt-nvbh-hplubo</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-ayydn-kchvl-3f1c1h</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-ayydn-kchvl-3f1c1h</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-ayydn-shchvr-jbr0uw</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-ayydn-shchvr-jbr0uw</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-kyyty-lbn-gfyiji</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-kyyty-lbn-gfyiji</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-kyyty-shchvr-3d838q</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-kyyty-shchvr-3d838q</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/ann-kkav-ez3pfy</loc>
+    <loc>https://hodaya.zappy5.app/product/ann-kkav-ez3pfy</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/lbn-pshtn-algnt-psaj0s</loc>
+    <loc>https://hodaya.zappy5.app/product/lbn-pshtn-algnt-psaj0s</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/krn-shmsh-icc466</loc>
+    <loc>https://hodaya.zappy5.app/product/krn-shmsh-icc466</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/avr-lbn-8h2blu</loc>
+    <loc>https://hodaya.zappy5.app/product/avr-lbn-8h2blu</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/ppyvn-tklt-5c9ctg</loc>
+    <loc>https://hodaya.zappy5.app/product/ppyvn-tklt-5c9ctg</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/pynk-shyk-zj9yd7</loc>
+    <loc>https://hodaya.zappy5.app/product/pynk-shyk-zj9yd7</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/lvryan-tchrh-lbnh-pdgjo7</loc>
+    <loc>https://hodaya.zappy5.app/product/lvryan-tchrh-lbnh-pdgjo7</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/avr-lyly-hdyav5</loc>
+    <loc>https://hodaya.zappy5.app/product/avr-lyly-hdyav5</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chvltst-nvah-byysyk-mldsns</loc>
+    <loc>https://hodaya.zappy5.app/product/chvltst-nvah-byysyk-mldsns</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl</loc>
+    <loc>https://hodaya.zappy5.app/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-nvam-mwff14</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-nvam-mwff14</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/shmlt-amvr-shkoqq</loc>
+    <loc>https://hodaya.zappy5.app/product/shmlt-amvr-shkoqq</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/product/chlypt-yryn-ppkemf</loc>
+    <loc>https://hodaya.zappy5.app/product/chlypt-yryn-ppkemf</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
