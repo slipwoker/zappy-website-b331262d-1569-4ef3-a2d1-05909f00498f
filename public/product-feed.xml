@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>הודיה</title>
+    <link>https://example.com</link>
+    <description>Product feed for הודיה</description>
+    <lastBuildDate>Tue, 12 May 2026 09:34:58 GMT</lastBuildDate>
+    <item>
+      <g:id>5e112479-acd1-423c-8c45-5b252e4df0ff</g:id>
+      <g:title>שמלת מונה חומה</g:title>
+      <g:description>שמלת ערב ארוכה, בעלת גזרה צמודה ושרוולים ארוכים, עם כיווצים מחמיאים במותן למראה אלגנטי ומעודן. מידת הבגד עם הדוגמנית 0.</g:description>
+      <g:link>https://example.com/product/shmlt-mvnh-chvmh-1lfuqu</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778505469455-1bu2ja.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778505529178-2ibx7.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778505499290-nc8ku9.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778505557991-uq68u.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>439.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות ערב</g:product_type>
+    </item>
+    <item>
+      <g:id>a8e2be50-c652-424b-8404-00faddd134a3</g:id>
+      <g:title>חצאית בייסיק ורודה </g:title>
+      <g:description>חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨ בגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע. בד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה. הדוגמנית לובשת מידה 1</g:description>
+      <g:link>https://example.com/product/chtsayt-byysyk-vrvdh-6m3g5y</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778391634332-bk88gm.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חצאיות</g:product_type>
+    </item>
+    <item>
+      <g:id>33dd5b54-8b33-4cb0-a5c0-f58a0223583c</g:id>
+      <g:title>חצאית בייסיק חום</g:title>
+      <g:description>חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨ בגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע. בד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה. הדוגמנית לובשת מידה 1</g:description>
+      <g:link>https://example.com/product/chtsayt-byysyk-chvm-6it5x1</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778391443200-i59mto.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>dd793663-40d7-4f1d-906a-b6ac9810be2b</g:id>
+      <g:title>חצאית בייסיק אפורה</g:title>
+      <g:description>חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨ בגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע. בד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה. הדוגמנית לובשת מידה 1</g:description>
+      <g:link>https://example.com/product/chtsayt-byysyk-apvrh-8gq3wx</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778391286971-bmnvid.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חצאיות</g:product_type>
+    </item>
+    <item>
+      <g:id>c6dd26fb-97a3-401e-8264-2ce1ca3c470b</g:id>
+      <g:title>חצאית בייסיק צהובה</g:title>
+      <g:description>חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨ בגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע. בד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה. הדוגמנית לובשת מידה 1</g:description>
+      <g:link>https://example.com/product/chtsayt-byysyk-tshvbh-c53fkl</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778390993531-b52bq9.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חצאיות</g:product_type>
+    </item>
+    <item>
+      <g:id>31e30d2c-f10e-460a-a749-a866ccdf009f</g:id>
+      <g:title>חצאית איסמטרית</g:title>
+      <g:description>חצאית איסמטרית בעיצוב מודרני ומדויק, עם גזרה מחמיאה שיוצרת מראה אלגנטי וייחודי. מתאימה לשילוב לוק יומי או ערב בסטייל נקי ועדכני. הבד נעים ואיכותי עם נוכחות מרשימה בכל הופעה. הדוגמנית לובשת מידה XS</g:description>
+      <g:link>https://example.com/product/chtsayt-aysmtryt-xugk26</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778358932057-qrmozh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חצאיות</g:product_type>
+    </item>
+    <item>
+      <g:id>f0d38858-4248-4656-946d-fcb7cc06acd5</g:id>
+      <g:title>בגד גוף סקיל שחור</g:title>
+      <g:description>בגד גוף סקיל שחור</g:description>
+      <g:link>https://example.com/product/bgd-gvp-skyl-shchvr-ar34vx</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778250544842-iceweh.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1778250512822-90rnzr.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>120.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חולצות</g:product_type>
+    </item>
+    <item>
+      <g:id>db5175fd-f760-463b-b7b0-294295f7b49c</g:id>
+      <g:title>בגד גוף סקיל לבן</g:title>
+      <g:description>בגד גוף סקיל לבן</g:description>
+      <g:link>https://example.com/product/bgd-gvp-skyl-lbn-3ogdxs</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778250344389-z8fxxo.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1778250317253-egpf0b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>120.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חולצות</g:product_type>
+    </item>
+    <item>
+      <g:id>82975b00-ef76-4372-bebc-4cb463c4816d</g:id>
+      <g:title>שמלת כיווצים</g:title>
+      <g:description>שמלת כיווצים</g:description>
+      <g:link>https://example.com/product/shmlt-kyvvtsym-lsjbw0</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778250041274-wg2k7.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778250118766-jl3pnj.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות ערב</g:product_type>
+    </item>
+    <item>
+      <g:id>42bd5d34-fa2b-404a-b1f0-f7cdfd4297eb</g:id>
+      <g:title>חליפה חצאית לולאות ב׳ז</g:title>
+      <g:description>חליפת שני חלקים בגזרת אובר סייז, חולצה עם שרוולים מתרחבים, כריות בכתפיים וקשירות בגב וחצאית מקסי עם גומי למעלה. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/chlyph-chtsayt-lvlavt-bz-rrrm0g</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778247159719-0jssq.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778247191681-4lotxo.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1778246886580-8e8fzk.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1778246892131-ql0xcgr.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>219.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>d80fa212-bd36-46df-98de-b457cfc412dc</g:id>
+      <g:title>חליפת חצאית לולאות שחור</g:title>
+      <g:description>חליפת שני חלקים בגזרת אובר סייז, חולצה עם שרוולים מתרחבים, כריות בכתפיים וקשירות בגב וחצאית מקסי עם גומי למעלה. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778246554501-qr85wq.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778246582698-hwlt6l.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778246637473-iyk9jai.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778246609090-tthvqp.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>219.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>76977d2d-a803-47ae-bcbd-13dbd00e95bb</g:id>
+      <g:title>חצאית ערב שחור</g:title>
+      <g:description>חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/chtsayt-arb-shchvr-zborlx</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778249215753-zvolbp.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778249244013-rj8g8r.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>359.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חצאיות</g:product_type>
+    </item>
+    <item>
+      <g:id>f8a3668b-cda8-4cca-af56-1870f526f228</g:id>
+      <g:title>חצאית ערב לבנה</g:title>
+      <g:description>חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/chtsayt-arb-lbnh-fwtckb</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778245057328-d6he7h.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778245138334-kw4bvu.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>349.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חצאיות</g:product_type>
+    </item>
+    <item>
+      <g:id>55d41187-a087-4a17-9731-316108a02671</g:id>
+      <g:title>חליפת לורן ב׳ז</g:title>
+      <g:description>חליפת שני חלקים חולצה עם שרוולי 3/4 וחצאית מקסי תואמת, עם חגורת קשירה במותן למראה אלגנטי. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/chlypt-lvrn-bz-nmjmc5</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778245888741-mbwpo.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778245948485-vv0prc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1778245800285-rmgnmc.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>219.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>590b1d33-87d4-4ad2-9195-b45a58205163</g:id>
+      <g:title>חליפת לורן ורוד</g:title>
+      <g:description>חליפת שני חלקים חולצה עם שרוולי 3/4 וחצאית מקסי תואמת, עם חגורת קשירה במותן למראה אלגנטי. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/chlypt-lvrn-vrvd-xbtgm0</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778245544470-ihf75yr.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778245662887-gmf0oe.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778245632141-8808xa.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778245602779-dx3lk5.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>259.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>ef48ef7a-090f-49e9-9151-fa6bdda3baa9</g:id>
+      <g:title>שמלת קלריס שחור</g:title>
+      <g:description>חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/shmlt-klrys-shchvr-ddhzid</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778244892803-ymau0l.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778244923310-cjz6n7h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778244866614-51dwsq.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>299.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות</g:product_type>
+    </item>
+    <item>
+      <g:id>b4dac057-9641-4843-9ea2-2c0bb0cc8271</g:id>
+      <g:title>חליפת אריקה שחור</g:title>
+      <g:description>חליפת שני חלקים, בגד גוף מבד מחטב בגזרה צמודה עם גולף, שרוולים ארוכים וכפפה ביד וחצאית עם קיפול לבן באורך מקסי. מידת הבגד על הדוגמנית XS</g:description>
+      <g:link>https://example.com/product/chlypt-arykh-shchvr-bj5y1d</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778243914784-ctvseo.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778243948168-z5sel.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778243975097-9tcf9n.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>369.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>c710ccc6-b261-4bac-8f68-88e6d7d89f55</g:id>
+      <g:title>שמלת מונה</g:title>
+      <g:description>שמלת ערב ארוכה, בעלת גזרה צמודה ושרוולים ארוכים, עם כיווצים מחמיאים במותן למראה אלגנטי ומעודן. מידת הבגד עם הדוגמנית 0. צבע</g:description>
+      <g:link>https://example.com/product/shmlt-mvnh-g0x9m7</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778238608480-m9suh.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778238639582-fjaoco.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778238690327-37cq6b.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>439.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות ערב</g:product_type>
+    </item>
+    <item>
+      <g:id>9e3272aa-1583-40b1-b831-0eecfd48cd36</g:id>
+      <g:title>שמחה תחרה שחורה</g:title>
+      <g:description>שמלת מקסי עם תחרה עשירה וגזרה מחטבת. החלק העליון כולל צווארון סגור ועיטורי מחוך עדין שמוסיף מבנה ואלגנטיות. מתאימה לערב ולאירועים, ומשלבת קלאסיות עם טוויסט מודרני. מידת הבגד על הדוגמנית 0.</g:description>
+      <g:link>https://example.com/product/shmchh-tchrh-shchvrh-dx1nj6</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778237250713-buobfk.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778237289762-e4rtsl.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778237473997-65ez.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778237438342-xadyx.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>249.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות ערב</g:product_type>
+    </item>
+    <item>
+      <g:id>35ada8e1-3a04-4948-95f3-aca08d36f115</g:id>
+      <g:title>טי שרט נובה חמאה</g:title>
+      <g:description>טי שרט בגזרת אובר סייז עם שרוול 3/4. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/ty-shrt-nvbh-chmah-eqt453</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778236118375-gmp577.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778236150922-n1xb6t.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778236240732-6245x.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778236191610-27befo.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חולצות</g:product_type>
+    </item>
+    <item>
+      <g:id>bb9a1f85-608a-4034-a303-bad39c602be6</g:id>
+      <g:title>טי שרט נובה שחור</g:title>
+      <g:description>טי שרט בגזרת אובר סייז עם שרוול 3/4. מידת הבגד על הדוגמנית XS.</g:description>
+      <g:link>https://example.com/product/ty-shrt-nvbh-shchvr-c2lsbq</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778235689759-aglrrc.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778235837885-vzlshd.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778235797062-112hyb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חולצות</g:product_type>
+    </item>
+    <item>
+      <g:id>7e367434-57f5-406f-93d1-67e0a8b83929</g:id>
+      <g:title>טישרט נובה</g:title>
+      <g:description>טישרט נובה</g:description>
+      <g:link>https://example.com/product/tyshrt-nvbh-hplubo</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778235103282-fpqxtu.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778235146474-r2ke5.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חולצות</g:product_type>
+    </item>
+    <item>
+      <g:id>5eee2c78-28da-4055-b991-a573392e1821</g:id>
+      <g:title>שמלת איידן כחול</g:title>
+      <g:description>שמלת מקסי סריג בגזרה צמודה ומחמיאה עם טקסטורת פסים לאורך כוללת שרוולים ארוכים מתרחבים קלות וצווארון עגול קלאסי. הדוגמנית לובשת מידה XS.</g:description>
+      <g:link>https://example.com/product/shmlt-ayydn-kchvl-3f1c1h</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778234861038-juorh.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778234831980-vi3ljo.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778234943253-iqc2ik.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>279.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות</g:product_type>
+    </item>
+    <item>
+      <g:id>b24c3c5c-4c10-40f7-9089-d272c04756fc</g:id>
+      <g:title>שמלת איידן שחור</g:title>
+      <g:description>שמלת איידן שחור</g:description>
+      <g:link>https://example.com/product/shmlt-ayydn-shchvr-jbr0uw</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778234567874-f47clc.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778234526291-6hq5mx.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778234605310-crht8.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>279.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות</g:product_type>
+    </item>
+    <item>
+      <g:id>eb5e4afb-4c82-4de9-81f9-69626793bdb2</g:id>
+      <g:title>שמלת קייטי לבן</g:title>
+      <g:description>שמלת מקסי מחויטת בגזרה צמודה ומחמיאה עם שרוולים ארוכים וצווארון סירה אלגנטי. תיפורי קונטור מודגשים מדגישים את קווי הגוף, עם חצאית מתרחבת קלות בחלק התחתון הדוגמנית לובשת מידה XS</g:description>
+      <g:link>https://example.com/product/shmlt-kyyty-lbn-gfyiji</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778234036152-hdayh.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778234065138-ygfnoc.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778234181754-josb5h.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778234208964-k3v7l.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>349.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות ערב</g:product_type>
+    </item>
+    <item>
+      <g:id>dcdeba92-75d6-480b-abc6-18e6a130dc91</g:id>
+      <g:title>שמלת קייטי שחור</g:title>
+      <g:description>שמלת מקסי מחויטת בגזרה צמודה ומחמיאה עם שרוולים ארוכים וצווארון סירה אלגנטי. תיפורי קונטור מודגשים מדגישים את קווי הגוף, עם חצאית מתרחבת קלות בחלק התחתון הדוגמנית לובשת מידה XS.</g:description>
+      <g:link>https://example.com/product/shmlt-kyyty-shchvr-3d838q</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778233802296-1m59a.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778233836628-ewji0x.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>349.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות ערב</g:product_type>
+    </item>
+    <item>
+      <g:id>972d7755-2205-44b1-b476-7eb73a8d45ec</g:id>
+      <g:title>ענן קקאו</g:title>
+      <g:description>חליפת “ענן קקאו” היא סט פשתן מכופתר אלגנטי בגוון חום חמים וטבעי, שמעניק מראה יוקרתי אך רגוע ונוח ליום-יום. החליפה עשויה בד פשתן איכותי, נושם וקליל, שמרגיש נעים על הגוף ומתאים במיוחד ללבישה יומיומית. הגוון החום העמוק יוצר מראה עשיר, טבעי ומלא סטייל, שמשדר אלגנטיות שקטה ותחכום מודרני. החלק העליון בעיצוב מכופתר מעניק מראה מסודר ומוקפד, בעוד הגזרה המחמיאה שומרת על נוחות ותנועה חופשית. הסט כולל גם חצאית תואמת בגזרה נשית ומחמיאה, שמשלימה את הלוק ויוצרת הופעה אחידה, נקייה ומדויקת.</g:description>
+      <g:link>https://example.com/product/ann-kkav-ez3pfy</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1778070841150-j5bf8.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>159.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>8d7ed43c-d659-4083-9562-345e82a95b68</g:id>
+      <g:title>לבן פשתן אלגנט</g:title>
+      <g:description>חליפת “ענן פשתן” לבנה היא סט מכופתר אלגנטי ונושם שמשלב בין מראה טבעי, נקי ויוקרתי לבין נוחות מקסימלית ליום-יום. החליפה עשויה בד פשתן איכותי וקליל, שמעניק תחושת אווריריות ונעימות על הגוף ומתאים במיוחד לאקלים חם. הגוון הלבן הנקי יוצר מראה רענן, קלאסי ועל-זמני שמשדר אלגנטיות שקטה ולא מתאמצת. החלק העליון בעיצוב מכופתר מעניק מראה מסודר ומוקפד, בעוד הגזרה המחמיאה שומרת על נוחות ותנועה חופשית. הסט כולל חצאית תואמת כחלק מהתחתית, בגזרה נשית ומחמיאה שמשלימה את הלוק ויוצרת מראה אחיד, אלגנטי ומדויק.</g:description>
+      <g:link>https://example.com/product/lbn-pshtn-algnt-psaj0s</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778184386065-pjoh5h.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>159.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>6ca81dd1-7796-4323-b4ba-4df8d580daac</g:id>
+      <g:title>קרן שמש</g:title>
+      <g:description>חליפת “קרן שמש” היא סט צווארון צהוב מלא סטייל שמכניס אור, רעננות ונוכחות לכל הופעה. החליפה מגיעה בגוון צהוב חמים ומלא חיים, שמעניק מראה בולט אך אלגנטי, ומשדר ביטחון וסטייל טבעי. החלק העליון בעיצוב צווארון מוסיף טאץ’ קלאסי ומסודר, בעוד הגזרה המחמיאה יוצרת מראה נשי, נקי ומדויק</g:description>
+      <g:link>https://example.com/product/krn-shmsh-icc466</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778522951748-w7fnh.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>159.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>ab95561e-7393-4619-857c-5025bb480e4c</g:id>
+      <g:title>אור לבן</g:title>
+      <g:description>חולצת בייסיק לבנה בגזרת אוברסייז היא פריט חובה בכל מלתחה שמחפשת שילוב של נוחות, פשטות וסטייל נקי. החולצה מגיעה בגזרה רחבה ומשוחררת שיושבת בצורה טבעית על הגוף ומעניקה תחושת נוחות לאורך כל היום. הצבע הלבן הקלאסי יוצר מראה רענן, נקי ועל-זמני, שמתאים לכל שילוב ולכל סגנון לבוש.</g:description>
+      <g:link>https://example.com/product/avr-lbn-8h2blu</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778184580192-cbezik.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חולצות</g:product_type>
+    </item>
+    <item>
+      <g:id>f89df4ac-c3de-4ea3-8843-66f2389b9b87</g:id>
+      <g:title>פפיון תכלת</g:title>
+      <g:description>חליפת “פפיון תכלת” ליום־יום היא סט קליל, נוח ומלא סטייל שמתאים ללוקים יומיומיים עם מראה רענן, נקי ועדין. החליפה מגיעה בגוון תכלת רך שמעניק תחושת רוגע ואלגנטיות קז’ואלית, יחד עם סרט קשירה (פפיון) שמוסיף דיטייל מיוחד ונשי שהופך את הלוק לפשוט אבל עם נוכחות אופנתית. הגזרה נוחה ומשוחררת, כך שהיא מתאימה ללבישה לאורך כל היום תוך שמירה על מראה מסודר ומוקפד.</g:description>
+      <g:link>https://example.com/product/ppyvn-tklt-5c9ctg</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778184677416-c99jdk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>701e30f4-6d76-485a-a787-3e586bc15303</g:id>
+      <g:title>פינק שיק</g:title>
+      <g:description>חליפת “פפיון ורוד” ליום־יום היא סט קליל, נוח ומלא סטייל שמתאים ללוקים יומיומיים עם טאץ’ נשי ועדין. החליפה מגיעה בגוון ורוד רך שמוסיף מראה רענן ומתוק לכל הופעה, יחד עם סרט קשירה (פפיון) שמעניק דיטייל מיוחד והופך את הלוק לפשוט אבל לא משעמם. הגזרה נוחה ומשוחררת, כך שהיא מתאימה ללבישה לאורך כל היום בלי לוותר על מראה מסודר ואופנתי.</g:description>
+      <g:link>https://example.com/product/pynk-shyk-zj9yd7</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778184775690-vj6vgj.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>62f2e518-ccd5-4b0d-826e-89f32a0455ad</g:id>
+      <g:title>לוריאן תחרה לבנה</g:title>
+      <g:description>חליפת תחרה לבנה הכוללת חצאית וחולצה היא סט אלגנטי ונשי שמשדר ניקיון, עדינות ויוקרה קלאסית. החליפה עשויה תחרה איכותית עם דיטיילים עדינים שמוסיפים עומק ועניין למראה כולו. הגזרה של החצאית מחמיאה ומדגישה את המותן בצורה טבעית ונשית, בעוד החולצה משלימה את הלוק עם מראה רך, אלגנטי ומוקפד.</g:description>
+      <g:link>https://example.com/product/lvryan-tchrh-lbnh-pdgjo7</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778184852271-k70vdq.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>189.00 ILS</g:price>
+      <g:sale_price>189.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>4bb28c4f-5c85-40ba-97df-c0ffd6c52bc1</g:id>
+      <g:title>אור לילי</g:title>
+      <g:description>חליפת סאטן לבנה “אור לילי” היא סט אלגנטי ונשי המשלב בין יוקרה רכה לסטייל נקי ומדויק. החליפה כוללת חצאית בגזרה מחמיאה ועליונית תואמת, עשויות בד סאטן חלק ונשפך שמעניק מראה מבריק ועדין עם נוכחות יוקרתית. הצבע הלבן הקלאסי יוצר מראה נקי, אלגנטי ועל-זמני שמתאים לאירועים מיוחדים, חגיגות, או לוקים אלגנטיים במיוחד.</g:description>
+      <g:link>https://example.com/product/avr-lyly-hdyav5</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778184955654-yyp7j.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>179.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+    <item>
+      <g:id>fdc3e776-ddce-496b-b995-d821448016bc</g:id>
+      <g:title>חולצת נועה בייסיק</g:title>
+      <g:description>חולצת בייסיק ורודה בגזרת אוברסייז היא פריט חובה לכל מלתחה שמחפשת שילוב בין נוחות לסטייל נקי ומודרני. החולצה מגיעה בגזרה רחבה ומשוחררת שיושבת בקלילות על הגוף, מעניקה תחושת נוחות מקסימלית ומראה טרנדי ולא מתאמץ. הצבע הורוד העדין מוסיף טאץ’ רך ונשי ללוק,</g:description>
+      <g:link>https://example.com/product/chvltst-nvah-byysyk-mldsns</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778185028317-b5zptr.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>69.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חולצות</g:product_type>
+    </item>
+    <item>
+      <g:id>cfb3ee30-09ff-44ba-85e2-e769055edb4b</g:id>
+      <g:title>חצאית לוריין תחרה שחורה</g:title>
+      <g:description>חצאית תחרה שחורה היא פריט קלאסי ועל-זמני שמשלב בין אלגנטיות נשית לבין מראה יוקרתי ומדויק. החצאית עשויה תחרה עדינה בגוון שחור עמוק, היוצרת מראה עשיר עם טקסטורה מיוחדת שמוסיפה עניין וסטייל לכל הופעה. הגזרה המחמיאה מדגישה את המותן ויוצרת סילואטה נשית ואלגנטית, שמתאימה גם ליציאות ערב וגם ללוק מוקפד ליום-יום</g:description>
+      <g:link>https://example.com/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778185335404-cdvyg.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חצאיות</g:product_type>
+    </item>
+    <item>
+      <g:id>dc70b362-1ac0-4a40-9893-9ed6f57cd8b1</g:id>
+      <g:title>שמלת נועם</g:title>
+      <g:description>שמלת נועם היא הבחירה המושלמת למראה אלגנטי, נקי ומדויק שמדגיש את הגוף בצורה מחמיאה ועדינה. השמלה מגיעה בגזרה צמודה שמלטפת את הקווים הטבעיים של הגוף ויוצרת מראה נשי ומוקפד, תוך שמירה על סטייל יוקרתי ולא מתאמץ. הצבע השחור הקלאסי מעניק לה מראה על-זמני שמתאים לכל אירוע – ערב, דייט או יציאה חגיגית. הדגש המיוחד בשמלה הוא האבזם הייחודי בעיצוב “אש”, שמוסיף טאץ’ עוצמתי וייחודי למראה כולו והופך את השמלה מפריט בסיסי לפריט עם אמירה. ניתן להסיר את האבזם לפי בחירה, כך שאפשר ליהנות ממראה נקי ומינימליסטי.</g:description>
+      <g:link>https://example.com/product/shmlt-nvam-mwff14</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778185713440-uye92d.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778185570409-si5d5.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778185686500-id9k9n.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778185623231-dt7rb.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות ערב</g:product_type>
+    </item>
+    <item>
+      <g:id>7c390582-52b2-49cc-ba08-0c2c7503bd28</g:id>
+      <g:title>שמלת אמור</g:title>
+      <g:description>שמלת נואר אלגנט שמלת ערב קלאסית ונשית בעיצוב נקי ומדויק, שמדגישה את קווי הגוף בצורה מחמיאה ומעניקה מראה יוקרתי ואלגנטי. הגזרה הצמודה משתלבת עם שרוולים ארוכים ופתח עדין באזור החזה, ליצירת לוק מתוחכם עם טאץ’ מודרני – מושלם לאירועים, ערב או הופעה מרשימה.</g:description>
+      <g:link>https://example.com/product/shmlt-amvr-shkoqq</g:link>
+      <g:image_link>https://example.com/assets/product-ai-fit-1778186037939-raxyi.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778186067553-u93ft.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778186176010-jbmlyt.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-ai-fit-1778186152643-vodm8q.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>שמלות</g:product_type>
+    </item>
+    <item>
+      <g:id>f3efe0b9-a297-4fdc-ad32-b2a01e6b3a6c</g:id>
+      <g:title>חליפת ירין</g:title>
+      <g:description>חליפה ירוקה בגזרה מחויטת ועדינה, מושלמת ליום-יום עם מראה נקי, נוח ומלא סטייל. החליפה מגיעה בגוון ירוק אלגנטי שמוסיף צבע רענן ללוק היומיומי בלי להיות מוגזם. הגזרה נוחה ומחמיאה, מאפשרת תנועה חופשית ונוחות לאורך כל היום, תוך שמירה על מראה מסודר ומוקפד</g:description>
+      <g:link>https://example.com/product/chlypt-yryn-ppkemf</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1778072447091-jm59or.webp</g:image_link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>169.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הודיה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>חליפות</g:product_type>
+    </item>
+  </channel>
+</rss>

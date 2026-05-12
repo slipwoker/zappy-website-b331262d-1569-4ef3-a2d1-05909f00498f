@@ -1,0 +1,406 @@
+# הודיה — Generative Engine Optimization Map
+
+> An online clothing store catering specifically to religious women, focusing on modest fashion that combines style with religious values. The brand serves a niche market that values both elegance and modesty in dress, offering clothing that adheres to religious dress codes while remaining fashionable and contemporary.
+
+---
+
+## Pages
+
+### הודיה בוטיק
+https://example.com
+הודיה בוטיק — אופנה צנועה לנשים עם סטייל אלגנטי. שמלות, חליפות וביגוד לנשים שאוהבות צניעות בסטייל ומשלוחים עד הבית
+
+### Products
+https://example.com/products
+המוצרים שלנו - הודיה
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - הודיה
+
+### Category
+https://example.com/category/:slug
+מוצרים - הודיה
+
+### הסיפור שמאחורי האופנה הצנועה שאוהבים — הודיה
+https://example.com/about
+הודיה נולדה מתוך חזון אחד: להוכיח שצניעות ואופנה הולכות יד ביד. הכירי את הצוות שמאחורי המותג, הערכים שמנחים אותנו והדרך שעברנו כדי לשרת נשים דתיות בסטייל.
+
+### לבשי נכון בכל אירוע עם המדריך שלנו — הודיה
+https://example.com/style-guide
+מדריך הסגנון של הודיה נותן לך כלים מעשיים לבחור לבוש צנוע אופנתי לכל מצב — מהיומיום ועד אירועים חגיגיים. גלי כיצד להרכיב תלבושות שמשדרות ביטחון ויופי אמיתי.
+
+### דברי איתנו ותמצאי את הלוק המושלם — הודיה
+https://example.com/contact
+יש שאלה על מידות, סגנון או הזמנה? צוות הודיה כאן בשבילך! צרי קשר עכשיו ונעזור לך למצוא את הבגד הצנוע והאופנתי שתמיד חלמת עליו — שירות אישי וחם מחכה לך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+**Total active products: 39**
+
+### שמלת מונה חומה
+https://example.com/product/shmlt-mvnh-chvmh-1lfuqu
+- Price: 439.00 ILS
+- Availability: In stock
+- Category: שמלות ערב
+- Description: שמלת ערב ארוכה, בעלת גזרה צמודה ושרוולים ארוכים, עם כיווצים מחמיאים במותן למראה אלגנטי ומעודן. מידת הבגד עם הדוגמנית 0.
+- Image: https://example.com/assets/product-ai-fit-1778505469455-1bu2ja.webp
+
+### חצאית בייסיק ורודה 
+https://example.com/product/chtsayt-byysyk-vrvdh-6m3g5y
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חצאיות
+- Description: חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨ בגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע. בד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה. הדוגמנית לובשת מידה 1
+- Image: https://example.com/assets/product-ai-fit-1778391634332-bk88gm.webp
+
+### חצאית בייסיק חום
+https://example.com/product/chtsayt-byysyk-chvm-6it5x1
+- Price: 69.00 ILS
+- Availability: In stock
+- Description: חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨ בגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע. בד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה. הדוגמנית לובשת מידה 1
+- Image: https://example.com/assets/product-ai-fit-1778391443200-i59mto.webp
+
+### חצאית בייסיק אפורה
+https://example.com/product/chtsayt-byysyk-apvrh-8gq3wx
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חצאיות
+- Description: חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨ בגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע. בד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה. הדוגמנית לובשת מידה 1
+- Image: https://example.com/assets/product-ai-fit-1778391286971-bmnvid.webp
+
+### חצאית בייסיק צהובה
+https://example.com/product/chtsayt-byysyk-tshvbh-c53fkl
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חצאיות
+- Description: חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨ בגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע. בד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה. הדוגמנית לובשת מידה 1
+- Image: https://example.com/assets/product-ai-fit-1778390993531-b52bq9.webp
+
+### חצאית איסמטרית
+https://example.com/product/chtsayt-aysmtryt-xugk26
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: חצאיות
+- Description: חצאית איסמטרית בעיצוב מודרני ומדויק, עם גזרה מחמיאה שיוצרת מראה אלגנטי וייחודי. מתאימה לשילוב לוק יומי או ערב בסטייל נקי ועדכני. הבד נעים ואיכותי עם נוכחות מרשימה בכל הופעה. הדוגמנית לובשת מידה XS
+- Image: https://example.com/assets/product-ai-fit-1778358932057-qrmozh.webp
+
+### בגד גוף סקיל שחור
+https://example.com/product/bgd-gvp-skyl-shchvr-ar34vx
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: חולצות
+- Image: https://example.com/assets/product-ai-fit-1778250544842-iceweh.webp
+
+### בגד גוף סקיל לבן
+https://example.com/product/bgd-gvp-skyl-lbn-3ogdxs
+- Price: 120.00 ILS
+- Availability: In stock
+- Category: חולצות
+- Image: https://example.com/assets/product-ai-fit-1778250344389-z8fxxo.webp
+
+### שמלת כיווצים
+https://example.com/product/shmlt-kyvvtsym-lsjbw0
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: שמלות ערב
+- Image: https://example.com/assets/product-ai-fit-1778250041274-wg2k7.webp
+
+### חליפה חצאית לולאות ב׳ז
+https://example.com/product/chlyph-chtsayt-lvlavt-bz-rrrm0g
+- Price: 219.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת שני חלקים בגזרת אובר סייז, חולצה עם שרוולים מתרחבים, כריות בכתפיים וקשירות בגב וחצאית מקסי עם גומי למעלה. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778247159719-0jssq.webp
+
+### חליפת חצאית לולאות שחור
+https://example.com/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd
+- Price: 219.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת שני חלקים בגזרת אובר סייז, חולצה עם שרוולים מתרחבים, כריות בכתפיים וקשירות בגב וחצאית מקסי עם גומי למעלה. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778246554501-qr85wq.webp
+
+### חצאית ערב שחור
+https://example.com/product/chtsayt-arb-shchvr-zborlx
+- Price: 359.00 ILS
+- Availability: In stock
+- Category: חצאיות
+- Description: חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778249215753-zvolbp.webp
+
+### חצאית ערב לבנה
+https://example.com/product/chtsayt-arb-lbnh-fwtckb
+- Price: 349.00 ILS
+- Availability: In stock
+- Category: חצאיות
+- Description: חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778245057328-d6he7h.webp
+
+### חליפת לורן ב׳ז
+https://example.com/product/chlypt-lvrn-bz-nmjmc5
+- Price: 219.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת שני חלקים חולצה עם שרוולי 3/4 וחצאית מקסי תואמת, עם חגורת קשירה במותן למראה אלגנטי. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778245888741-mbwpo.webp
+
+### חליפת לורן ורוד
+https://example.com/product/chlypt-lvrn-vrvd-xbtgm0
+- Price: 259.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת שני חלקים חולצה עם שרוולי 3/4 וחצאית מקסי תואמת, עם חגורת קשירה במותן למראה אלגנטי. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778245544470-ihf75yr.webp
+
+### שמלת קלריס שחור
+https://example.com/product/shmlt-klrys-shchvr-ddhzid
+- Price: 299.00 ILS
+- Availability: In stock
+- Category: שמלות
+- Description: חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778244892803-ymau0l.webp
+
+### חליפת אריקה שחור
+https://example.com/product/chlypt-arykh-shchvr-bj5y1d
+- Price: 369.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת שני חלקים, בגד גוף מבד מחטב בגזרה צמודה עם גולף, שרוולים ארוכים וכפפה ביד וחצאית עם קיפול לבן באורך מקסי. מידת הבגד על הדוגמנית XS
+- Image: https://example.com/assets/product-ai-fit-1778243914784-ctvseo.webp
+
+### שמלת מונה
+https://example.com/product/shmlt-mvnh-g0x9m7
+- Price: 439.00 ILS
+- Availability: In stock
+- Category: שמלות ערב
+- Description: שמלת ערב ארוכה, בעלת גזרה צמודה ושרוולים ארוכים, עם כיווצים מחמיאים במותן למראה אלגנטי ומעודן. מידת הבגד עם הדוגמנית 0. צבע
+- Image: https://example.com/assets/product-ai-fit-1778238608480-m9suh.webp
+
+### שמחה תחרה שחורה
+https://example.com/product/shmchh-tchrh-shchvrh-dx1nj6
+- Price: 249.00 ILS
+- Availability: In stock
+- Category: שמלות ערב
+- Description: שמלת מקסי עם תחרה עשירה וגזרה מחטבת. החלק העליון כולל צווארון סגור ועיטורי מחוך עדין שמוסיף מבנה ואלגנטיות. מתאימה לערב ולאירועים, ומשלבת קלאסיות עם טוויסט מודרני. מידת הבגד על הדוגמנית 0.
+- Image: https://example.com/assets/product-ai-fit-1778237250713-buobfk.webp
+
+### טי שרט נובה חמאה
+https://example.com/product/ty-shrt-nvbh-chmah-eqt453
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חולצות
+- Description: טי שרט בגזרת אובר סייז עם שרוול 3/4. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778236118375-gmp577.webp
+
+### טי שרט נובה שחור
+https://example.com/product/ty-shrt-nvbh-shchvr-c2lsbq
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חולצות
+- Description: טי שרט בגזרת אובר סייז עם שרוול 3/4. מידת הבגד על הדוגמנית XS.
+- Image: https://example.com/assets/product-ai-fit-1778235689759-aglrrc.webp
+
+### טישרט נובה
+https://example.com/product/tyshrt-nvbh-hplubo
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חולצות
+- Image: https://example.com/assets/product-ai-fit-1778235103282-fpqxtu.webp
+
+### שמלת איידן כחול
+https://example.com/product/shmlt-ayydn-kchvl-3f1c1h
+- Price: 279.00 ILS
+- Availability: In stock
+- Category: שמלות
+- Description: שמלת מקסי סריג בגזרה צמודה ומחמיאה עם טקסטורת פסים לאורך כוללת שרוולים ארוכים מתרחבים קלות וצווארון עגול קלאסי. הדוגמנית לובשת מידה XS.
+- Image: https://example.com/assets/product-ai-fit-1778234861038-juorh.webp
+
+### שמלת איידן שחור
+https://example.com/product/shmlt-ayydn-shchvr-jbr0uw
+- Price: 279.00 ILS
+- Availability: In stock
+- Category: שמלות
+- Image: https://example.com/assets/product-ai-fit-1778234567874-f47clc.webp
+
+### שמלת קייטי לבן
+https://example.com/product/shmlt-kyyty-lbn-gfyiji
+- Price: 349.00 ILS
+- Availability: In stock
+- Category: שמלות ערב
+- Description: שמלת מקסי מחויטת בגזרה צמודה ומחמיאה עם שרוולים ארוכים וצווארון סירה אלגנטי. תיפורי קונטור מודגשים מדגישים את קווי הגוף, עם חצאית מתרחבת קלות בחלק התחתון הדוגמנית לובשת מידה XS
+- Image: https://example.com/assets/product-ai-fit-1778234036152-hdayh.webp
+
+### שמלת קייטי שחור
+https://example.com/product/shmlt-kyyty-shchvr-3d838q
+- Price: 349.00 ILS
+- Availability: In stock
+- Category: שמלות ערב
+- Description: שמלת מקסי מחויטת בגזרה צמודה ומחמיאה עם שרוולים ארוכים וצווארון סירה אלגנטי. תיפורי קונטור מודגשים מדגישים את קווי הגוף, עם חצאית מתרחבת קלות בחלק התחתון הדוגמנית לובשת מידה XS.
+- Image: https://example.com/assets/product-ai-fit-1778233802296-1m59a.webp
+
+### ענן קקאו
+https://example.com/product/ann-kkav-ez3pfy
+- Price: 159.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת “ענן קקאו” היא סט פשתן מכופתר אלגנטי בגוון חום חמים וטבעי, שמעניק מראה יוקרתי אך רגוע ונוח ליום-יום. החליפה עשויה בד פשתן איכותי, נושם וקליל, שמרגיש נעים על הגוף ומתאים במיוחד ללבישה יומיומית. הגוון החום העמוק יוצר מראה עשיר, טבעי ומלא סטייל, שמשדר אלגנטיות שקטה ותחכום מודרני. החלק העליון בעיצוב מכופתר מעניק מראה מסודר ומוקפד, בעוד הגזרה המחמיאה שומרת על נוחות ותנועה חופשית. הסט כולל גם חצאית תואמת בגזרה נשית ומחמיאה, שמשלימה את הלוק ויוצרת הופעה אחידה, נקייה ומדויקת.
+- Image: https://example.com/assets/product-enhanced-1778070841150-j5bf8.webp
+
+### לבן פשתן אלגנט
+https://example.com/product/lbn-pshtn-algnt-psaj0s
+- Price: 159.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת “ענן פשתן” לבנה היא סט מכופתר אלגנטי ונושם שמשלב בין מראה טבעי, נקי ויוקרתי לבין נוחות מקסימלית ליום-יום. החליפה עשויה בד פשתן איכותי וקליל, שמעניק תחושת אווריריות ונעימות על הגוף ומתאים במיוחד לאקלים חם. הגוון הלבן הנקי יוצר מראה רענן, קלאסי ועל-זמני שמשדר אלגנטיות שקטה ולא מתאמצת. החלק העליון בעיצוב מכופתר מעניק מראה מסודר ומוקפד, בעוד הגזרה המחמיאה שומרת על נוחות ותנועה חופשית. הסט כולל חצאית תואמת כחלק מהתחתית, בגזרה נשית ומחמיאה שמשלימה את הלוק ויוצרת מראה אחיד, אלגנטי ומדויק.
+- Image: https://example.com/assets/product-ai-fit-1778184386065-pjoh5h.webp
+
+### קרן שמש
+https://example.com/product/krn-shmsh-icc466
+- Price: 159.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת “קרן שמש” היא סט צווארון צהוב מלא סטייל שמכניס אור, רעננות ונוכחות לכל הופעה. החליפה מגיעה בגוון צהוב חמים ומלא חיים, שמעניק מראה בולט אך אלגנטי, ומשדר ביטחון וסטייל טבעי. החלק העליון בעיצוב צווארון מוסיף טאץ’ קלאסי ומסודר, בעוד הגזרה המחמיאה יוצרת מראה נשי, נקי ומדויק
+- Image: https://example.com/assets/product-ai-fit-1778522951748-w7fnh.webp
+
+### אור לבן
+https://example.com/product/avr-lbn-8h2blu
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חולצות
+- Description: חולצת בייסיק לבנה בגזרת אוברסייז היא פריט חובה בכל מלתחה שמחפשת שילוב של נוחות, פשטות וסטייל נקי. החולצה מגיעה בגזרה רחבה ומשוחררת שיושבת בצורה טבעית על הגוף ומעניקה תחושת נוחות לאורך כל היום. הצבע הלבן הקלאסי יוצר מראה רענן, נקי ועל-זמני, שמתאים לכל שילוב ולכל סגנון לבוש.
+- Image: https://example.com/assets/product-ai-fit-1778184580192-cbezik.webp
+
+### פפיון תכלת
+https://example.com/product/ppyvn-tklt-5c9ctg
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת “פפיון תכלת” ליום־יום היא סט קליל, נוח ומלא סטייל שמתאים ללוקים יומיומיים עם מראה רענן, נקי ועדין. החליפה מגיעה בגוון תכלת רך שמעניק תחושת רוגע ואלגנטיות קז’ואלית, יחד עם סרט קשירה (פפיון) שמוסיף דיטייל מיוחד ונשי שהופך את הלוק לפשוט אבל עם נוכחות אופנתית. הגזרה נוחה ומשוחררת, כך שהיא מתאימה ללבישה לאורך כל היום תוך שמירה על מראה מסודר ומוקפד.
+- Image: https://example.com/assets/product-ai-fit-1778184677416-c99jdk.webp
+
+### פינק שיק
+https://example.com/product/pynk-shyk-zj9yd7
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת “פפיון ורוד” ליום־יום היא סט קליל, נוח ומלא סטייל שמתאים ללוקים יומיומיים עם טאץ’ נשי ועדין. החליפה מגיעה בגוון ורוד רך שמוסיף מראה רענן ומתוק לכל הופעה, יחד עם סרט קשירה (פפיון) שמעניק דיטייל מיוחד והופך את הלוק לפשוט אבל לא משעמם. הגזרה נוחה ומשוחררת, כך שהיא מתאימה ללבישה לאורך כל היום בלי לוותר על מראה מסודר ואופנתי.
+- Image: https://example.com/assets/product-ai-fit-1778184775690-vj6vgj.webp
+
+### לוריאן תחרה לבנה
+https://example.com/product/lvryan-tchrh-lbnh-pdgjo7
+- Price: 189.00 ILS (sale, was 199.00 ILS)
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת תחרה לבנה הכוללת חצאית וחולצה היא סט אלגנטי ונשי שמשדר ניקיון, עדינות ויוקרה קלאסית. החליפה עשויה תחרה איכותית עם דיטיילים עדינים שמוסיפים עומק ועניין למראה כולו. הגזרה של החצאית מחמיאה ומדגישה את המותן בצורה טבעית ונשית, בעוד החולצה משלימה את הלוק עם מראה רך, אלגנטי ומוקפד.
+- Image: https://example.com/assets/product-ai-fit-1778184852271-k70vdq.webp
+
+### אור לילי
+https://example.com/product/avr-lyly-hdyav5
+- Price: 179.00 ILS
+- Availability: In stock
+- Category: חליפות
+- Description: חליפת סאטן לבנה “אור לילי” היא סט אלגנטי ונשי המשלב בין יוקרה רכה לסטייל נקי ומדויק. החליפה כוללת חצאית בגזרה מחמיאה ועליונית תואמת, עשויות בד סאטן חלק ונשפך שמעניק מראה מבריק ועדין עם נוכחות יוקרתית. הצבע הלבן הקלאסי יוצר מראה נקי, אלגנטי ועל-זמני שמתאים לאירועים מיוחדים, חגיגות, או לוקים אלגנטיים במיוחד.
+- Image: https://example.com/assets/product-ai-fit-1778184955654-yyp7j.webp
+
+### חולצת נועה בייסיק
+https://example.com/product/chvltst-nvah-byysyk-mldsns
+- Price: 69.00 ILS
+- Availability: In stock
+- Category: חולצות
+- Description: חולצת בייסיק ורודה בגזרת אוברסייז היא פריט חובה לכל מלתחה שמחפשת שילוב בין נוחות לסטייל נקי ומודרני. החולצה מגיעה בגזרה רחבה ומשוחררת שיושבת בקלילות על הגוף, מעניקה תחושת נוחות מקסימלית ומראה טרנדי ולא מתאמץ. הצבע הורוד העדין מוסיף טאץ’ רך ונשי ללוק,
+- Image: https://example.com/assets/product-ai-fit-1778185028317-b5zptr.webp
+
+### חצאית לוריין תחרה שחורה
+https://example.com/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl
+- Price: 99.00 ILS
+- Availability: In stock
+- Category: חצאיות
+- Description: חצאית תחרה שחורה היא פריט קלאסי ועל-זמני שמשלב בין אלגנטיות נשית לבין מראה יוקרתי ומדויק. החצאית עשויה תחרה עדינה בגוון שחור עמוק, היוצרת מראה עשיר עם טקסטורה מיוחדת שמוסיפה עניין וסטייל לכל הופעה. הגזרה המחמיאה מדגישה את המותן ויוצרת סילואטה נשית ואלגנטית, שמתאימה גם ליציאות ערב וגם ללוק מוקפד ליום-יום
+- Image: https://example.com/assets/product-ai-fit-1778185335404-cdvyg.webp
+
+### שמלת נועם
+https://example.com/product/shmlt-nvam-mwff14
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: שמלות ערב
+- Description: שמלת נועם היא הבחירה המושלמת למראה אלגנטי, נקי ומדויק שמדגיש את הגוף בצורה מחמיאה ועדינה. השמלה מגיעה בגזרה צמודה שמלטפת את הקווים הטבעיים של הגוף ויוצרת מראה נשי ומוקפד, תוך שמירה על סטייל יוקרתי ולא מתאמץ. הצבע השחור הקלאסי מעניק לה מראה על-זמני שמתאים לכל אירוע – ערב, דייט או יציאה חגיגית. הדגש המיוחד בשמלה הוא האבזם הייחודי בעיצוב “אש”, שמוסיף טאץ’ עוצמתי וייחודי למראה כולו והופך את השמלה מפריט בסיסי לפריט עם אמירה. ניתן להסיר את האבזם לפי בחירה, כך שאפשר ליהנות ממראה נקי ומינימליסטי.
+- Image: https://example.com/assets/product-ai-fit-1778185713440-uye92d.webp
+
+### שמלת אמור
+https://example.com/product/shmlt-amvr-shkoqq
+- Price: 169.00 ILS
+- Availability: In stock
+- Category: שמלות
+- Description: שמלת נואר אלגנט שמלת ערב קלאסית ונשית בעיצוב נקי ומדויק, שמדגישה את קווי הגוף בצורה מחמיאה ומעניקה מראה יוקרתי ואלגנטי. הגזרה הצמודה משתלבת עם שרוולים ארוכים ופתח עדין באזור החזה, ליצירת לוק מתוחכם עם טאץ’ מודרני – מושלם לאירועים, ערב או הופעה מרשימה.
+- Image: https://example.com/assets/product-ai-fit-1778186037939-raxyi.webp
+
+### חליפת ירין
+https://example.com/product/chlypt-yryn-ppkemf
+- Price: 169.00 ILS
+- Availability: Out of stock
+- Category: חליפות
+- Description: חליפה ירוקה בגזרה מחויטת ועדינה, מושלמת ליום-יום עם מראה נקי, נוח ומלא סטייל. החליפה מגיעה בגוון ירוק אלגנטי שמוסיף צבע רענן ללוק היומיומי בלי להיות מוגזם. הגזרה נוחה ומחמיאה, מאפשרת תנועה חופשית ונוחות לאורך כל היום, תוך שמירה על מראה מסודר ומוקפד
+- Image: https://example.com/assets/product-enhanced-1778072447091-jm59or.webp
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הודיה
+An online clothing store catering specifically to religious women, focusing on modest fashion that combines style with religious values. The brand serves a niche market that values both elegance and modesty in dress, offering clothing that adheres to religious dress codes while remaining fashionable and contemporary.
+
+## Target Audience
+- נשים דתיות
+- מקצועניות דתיות צעירות
+- אמהות למשפחות דתיות
+
+## Industry
+אופנה ולבוש
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

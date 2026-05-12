@@ -1,0 +1,999 @@
+{
+  "@context": "https://schema.org",
+  "generated_at": "2026-05-12T09:34:58.430Z",
+  "base_url": "https://example.com",
+  "currency": "ILS",
+  "count": 39,
+  "products": [
+    {
+      "id": "5e112479-acd1-423c-8c45-5b252e4df0ff",
+      "slug": "shmlt-mvnh-chvmh-1lfuqu",
+      "name": "שמלת מונה חומה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שמלת ערב ארוכה, בעלת גזרה צמודה ושרוולים ארוכים, עם כיווצים מחמיאים במותן למראה אלגנטי ומעודן. מידת הבגד עם הדוגמנית 0.\n",
+      "sku": null,
+      "brand": null,
+      "price": 439,
+      "base_price": 439,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778505469455-1bu2ja.webp",
+        "https://example.com/assets/product-ai-fit-1778505529178-2ibx7.webp",
+        "https://example.com/assets/product-ai-fit-1778505499290-nc8ku9.webp",
+        "https://example.com/assets/product-ai-fit-1778505557991-uq68u.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-mvnh-chvmh-1lfuqu",
+      "categories": [
+        "שמלות ערב"
+      ],
+      "updated_at": "2026-05-11T13:25:24.491Z"
+    },
+    {
+      "id": "a8e2be50-c652-424b-8404-00faddd134a3",
+      "slug": "chtsayt-byysyk-vrvdh-6m3g5y",
+      "name": "חצאית בייסיק ורודה ",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨\nבגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע.\nבד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה.\n\nהדוגמנית לובשת מידה 1",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778391634332-bk88gm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chtsayt-byysyk-vrvdh-6m3g5y",
+      "categories": [
+        "חצאיות"
+      ],
+      "updated_at": "2026-05-10T05:42:16.850Z"
+    },
+    {
+      "id": "33dd5b54-8b33-4cb0-a5c0-f58a0223583c",
+      "slug": "chtsayt-byysyk-chvm-6it5x1",
+      "name": "חצאית בייסיק חום",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨\nבגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע.\nבד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה.\n\nהדוגמנית לובשת מידה 1",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778391443200-i59mto.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chtsayt-byysyk-chvm-6it5x1",
+      "categories": [],
+      "updated_at": "2026-05-10T05:38:01.125Z"
+    },
+    {
+      "id": "dd793663-40d7-4f1d-906a-b6ac9810be2b",
+      "slug": "chtsayt-byysyk-apvrh-8gq3wx",
+      "name": "חצאית בייסיק אפורה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨\nבגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע.\nבד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה.\n\nהדוגמנית לובשת מידה 1",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778391286971-bmnvid.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chtsayt-byysyk-apvrh-8gq3wx",
+      "categories": [
+        "חצאיות"
+      ],
+      "updated_at": "2026-05-10T05:36:05.669Z"
+    },
+    {
+      "id": "c6dd26fb-97a3-401e-8264-2ce1ca3c470b",
+      "slug": "chtsayt-byysyk-tshvbh-c53fkl",
+      "name": "חצאית בייסיק צהובה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית בייסיק מושלמת ללוק יומיומי נקי ומדויק ✨\nבגזרה מחמיאה ונוחה עם נפילה יפה על הגוף, מתאימה לשילוב עם חולצות מכופתרות, טי־שירטים וסריגים לסטייל אלגנטי וצנוע.\nבד נעים ואיכותי שמעניק נוחות לאורך כל היום ומתאים לכל עונה.\n\nהדוגמנית לובשת מידה 1",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778390993531-b52bq9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chtsayt-byysyk-tshvbh-c53fkl",
+      "categories": [
+        "חצאיות"
+      ],
+      "updated_at": "2026-05-10T05:33:24.003Z"
+    },
+    {
+      "id": "31e30d2c-f10e-460a-a749-a866ccdf009f",
+      "slug": "chtsayt-aysmtryt-xugk26",
+      "name": "חצאית איסמטרית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית איסמטרית בעיצוב מודרני ומדויק, עם גזרה מחמיאה שיוצרת מראה אלגנטי וייחודי. מתאימה לשילוב לוק יומי או ערב בסטייל נקי ועדכני. הבד נעים ואיכותי עם נוכחות מרשימה בכל הופעה.\nהדוגמנית לובשת מידה XS",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778358932057-qrmozh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chtsayt-aysmtryt-xugk26",
+      "categories": [
+        "חצאיות"
+      ],
+      "updated_at": "2026-05-09T20:49:48.404Z"
+    },
+    {
+      "id": "f0d38858-4248-4656-946d-fcb7cc06acd5",
+      "slug": "bgd-gvp-skyl-shchvr-ar34vx",
+      "name": "בגד גוף סקיל שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778250544842-iceweh.webp",
+        "https://example.com/assets/product-1778250512822-90rnzr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bgd-gvp-skyl-shchvr-ar34vx",
+      "categories": [
+        "חולצות"
+      ],
+      "updated_at": "2026-05-08T14:30:08.636Z"
+    },
+    {
+      "id": "db5175fd-f760-463b-b7b0-294295f7b49c",
+      "slug": "bgd-gvp-skyl-lbn-3ogdxs",
+      "name": "בגד גוף סקיל לבן",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778250344389-z8fxxo.webp",
+        "https://example.com/assets/product-1778250317253-egpf0b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/bgd-gvp-skyl-lbn-3ogdxs",
+      "categories": [
+        "חולצות"
+      ],
+      "updated_at": "2026-05-08T14:27:57.545Z"
+    },
+    {
+      "id": "82975b00-ef76-4372-bebc-4cb463c4816d",
+      "slug": "shmlt-kyvvtsym-lsjbw0",
+      "name": "שמלת כיווצים",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778250041274-wg2k7.webp",
+        "https://example.com/assets/product-ai-fit-1778250118766-jl3pnj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-kyvvtsym-lsjbw0",
+      "categories": [
+        "שמלות ערב",
+        "שמלות"
+      ],
+      "updated_at": "2026-05-08T14:23:56.808Z"
+    },
+    {
+      "id": "42bd5d34-fa2b-404a-b1f0-f7cdfd4297eb",
+      "slug": "chlyph-chtsayt-lvlavt-bz-rrrm0g",
+      "name": "חליפה חצאית לולאות ב׳ז",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת שני חלקים בגזרת אובר סייז, חולצה עם שרוולים מתרחבים, כריות בכתפיים וקשירות בגב וחצאית מקסי עם גומי למעלה.\nמידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 219,
+      "base_price": 219,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778247159719-0jssq.webp",
+        "https://example.com/assets/product-ai-fit-1778247191681-4lotxo.webp",
+        "https://example.com/assets/product-1778246886580-8e8fzk.webp",
+        "https://example.com/assets/product-1778246892131-ql0xcgr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlyph-chtsayt-lvlavt-bz-rrrm0g",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "d80fa212-bd36-46df-98de-b457cfc412dc",
+      "slug": "chlypt-chtsayt-lvlavt-shchvr-tgpdsd",
+      "name": "חליפת חצאית לולאות שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת שני חלקים בגזרת אובר סייז, חולצה עם שרוולים מתרחבים, כריות בכתפיים וקשירות בגב וחצאית מקסי עם גומי למעלה.\nמידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 219,
+      "base_price": 219,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778246554501-qr85wq.webp",
+        "https://example.com/assets/product-ai-fit-1778246582698-hwlt6l.webp",
+        "https://example.com/assets/product-ai-fit-1778246637473-iyk9jai.webp",
+        "https://example.com/assets/product-ai-fit-1778246609090-tthvqp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-chtsayt-lvlavt-shchvr-tgpdsd",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "76977d2d-a803-47ae-bcbd-13dbd00e95bb",
+      "slug": "chtsayt-arb-shchvr-zborlx",
+      "name": "חצאית ערב שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 359,
+      "base_price": 359,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778249215753-zvolbp.webp",
+        "https://example.com/assets/product-ai-fit-1778249244013-rj8g8r.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chtsayt-arb-shchvr-zborlx",
+      "categories": [
+        "חצאיות"
+      ],
+      "updated_at": "2026-05-08T14:09:40.100Z"
+    },
+    {
+      "id": "f8a3668b-cda8-4cca-af56-1870f526f228",
+      "slug": "chtsayt-arb-lbnh-fwtckb",
+      "name": "חצאית ערב לבנה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 349,
+      "base_price": 349,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778245057328-d6he7h.webp",
+        "https://example.com/assets/product-ai-fit-1778245138334-kw4bvu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chtsayt-arb-lbnh-fwtckb",
+      "categories": [
+        "חצאיות"
+      ],
+      "updated_at": "2026-05-10T05:06:01.662Z"
+    },
+    {
+      "id": "55d41187-a087-4a17-9731-316108a02671",
+      "slug": "chlypt-lvrn-bz-nmjmc5",
+      "name": "חליפת לורן ב׳ז",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת שני חלקים חולצה עם שרוולי 3/4 וחצאית מקסי תואמת, עם חגורת קשירה במותן למראה אלגנטי.\nמידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 219,
+      "base_price": 219,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778245888741-mbwpo.webp",
+        "https://example.com/assets/product-ai-fit-1778245948485-vv0prc.webp",
+        "https://example.com/assets/product-1778245800285-rmgnmc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-lvrn-bz-nmjmc5",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "590b1d33-87d4-4ad2-9195-b45a58205163",
+      "slug": "chlypt-lvrn-vrvd-xbtgm0",
+      "name": "חליפת לורן ורוד",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת שני חלקים חולצה עם שרוולי 3/4 וחצאית מקסי תואמת, עם חגורת קשירה במותן למראה אלגנטי.\nמידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 259,
+      "base_price": 259,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778245544470-ihf75yr.webp",
+        "https://example.com/assets/product-ai-fit-1778245662887-gmf0oe.webp",
+        "https://example.com/assets/product-ai-fit-1778245632141-8808xa.webp",
+        "https://example.com/assets/product-ai-fit-1778245602779-dx3lk5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-lvrn-vrvd-xbtgm0",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "ef48ef7a-090f-49e9-9151-fa6bdda3baa9",
+      "slug": "shmlt-klrys-shchvr-ddhzid",
+      "name": "שמלת קלריס שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית באורך מקסי מתרחבת מהמותן. מידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 299,
+      "base_price": 299,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778244892803-ymau0l.webp",
+        "https://example.com/assets/product-ai-fit-1778244923310-cjz6n7h.webp",
+        "https://example.com/assets/product-ai-fit-1778244866614-51dwsq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-klrys-shchvr-ddhzid",
+      "categories": [
+        "שמלות",
+        "שמלות ערב"
+      ],
+      "updated_at": "2026-05-11T18:42:58.454Z"
+    },
+    {
+      "id": "b4dac057-9641-4843-9ea2-2c0bb0cc8271",
+      "slug": "chlypt-arykh-shchvr-bj5y1d",
+      "name": "חליפת אריקה שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת שני חלקים, בגד גוף מבד מחטב בגזרה צמודה עם גולף, שרוולים ארוכים וכפפה ביד וחצאית עם קיפול לבן באורך מקסי.\nמידת הבגד על הדוגמנית XS",
+      "sku": null,
+      "brand": null,
+      "price": 369,
+      "base_price": 369,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778243914784-ctvseo.webp",
+        "https://example.com/assets/product-ai-fit-1778243948168-z5sel.webp",
+        "https://example.com/assets/product-ai-fit-1778243975097-9tcf9n.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chlypt-arykh-shchvr-bj5y1d",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "c710ccc6-b261-4bac-8f68-88e6d7d89f55",
+      "slug": "shmlt-mvnh-g0x9m7",
+      "name": "שמלת מונה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שמלת ערב ארוכה, בעלת גזרה צמודה ושרוולים ארוכים, עם כיווצים מחמיאים במותן למראה אלגנטי ומעודן. מידת הבגד עם הדוגמנית 0.\nצבע",
+      "sku": null,
+      "brand": null,
+      "price": 439,
+      "base_price": 439,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778238608480-m9suh.webp",
+        "https://example.com/assets/product-ai-fit-1778238639582-fjaoco.webp",
+        "https://example.com/assets/product-ai-fit-1778238690327-37cq6b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-mvnh-g0x9m7",
+      "categories": [
+        "שמלות ערב",
+        "שמלות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "9e3272aa-1583-40b1-b831-0eecfd48cd36",
+      "slug": "shmchh-tchrh-shchvrh-dx1nj6",
+      "name": "שמחה תחרה שחורה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שמלת מקסי עם תחרה עשירה וגזרה מחטבת. החלק העליון כולל צווארון סגור ועיטורי מחוך עדין שמוסיף מבנה ואלגנטיות. מתאימה לערב ולאירועים, ומשלבת קלאסיות עם טוויסט מודרני. מידת הבגד על הדוגמנית 0.",
+      "sku": null,
+      "brand": null,
+      "price": 249,
+      "base_price": 249,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778237250713-buobfk.webp",
+        "https://example.com/assets/product-ai-fit-1778237289762-e4rtsl.webp",
+        "https://example.com/assets/product-ai-fit-1778237473997-65ez.webp",
+        "https://example.com/assets/product-ai-fit-1778237438342-xadyx.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmchh-tchrh-shchvrh-dx1nj6",
+      "categories": [
+        "שמלות ערב",
+        "שמלות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "35ada8e1-3a04-4948-95f3-aca08d36f115",
+      "slug": "ty-shrt-nvbh-chmah-eqt453",
+      "name": "טי שרט נובה חמאה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טי שרט בגזרת אובר סייז עם שרוול 3/4.\nמידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778236118375-gmp577.webp",
+        "https://example.com/assets/product-ai-fit-1778236150922-n1xb6t.webp",
+        "https://example.com/assets/product-ai-fit-1778236240732-6245x.webp",
+        "https://example.com/assets/product-ai-fit-1778236191610-27befo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/ty-shrt-nvbh-chmah-eqt453",
+      "categories": [
+        "חולצות"
+      ],
+      "updated_at": "2026-05-08T14:15:01.691Z"
+    },
+    {
+      "id": "bb9a1f85-608a-4034-a303-bad39c602be6",
+      "slug": "ty-shrt-nvbh-shchvr-c2lsbq",
+      "name": "טי שרט נובה שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טי שרט בגזרת אובר סייז עם שרוול 3/4.\nמידת הבגד על הדוגמנית XS.",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778235689759-aglrrc.webp",
+        "https://example.com/assets/product-ai-fit-1778235837885-vzlshd.webp",
+        "https://example.com/assets/product-ai-fit-1778235797062-112hyb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/ty-shrt-nvbh-shchvr-c2lsbq",
+      "categories": [
+        "חולצות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "7e367434-57f5-406f-93d1-67e0a8b83929",
+      "slug": "tyshrt-nvbh-hplubo",
+      "name": "טישרט נובה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778235103282-fpqxtu.webp",
+        "https://example.com/assets/product-ai-fit-1778235146474-r2ke5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/tyshrt-nvbh-hplubo",
+      "categories": [
+        "חולצות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "5eee2c78-28da-4055-b991-a573392e1821",
+      "slug": "shmlt-ayydn-kchvl-3f1c1h",
+      "name": "שמלת איידן כחול",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שמלת מקסי סריג בגזרה צמודה ומחמיאה עם טקסטורת פסים לאורך כוללת שרוולים ארוכים מתרחבים קלות וצווארון עגול קלאסי.\nהדוגמנית לובשת מידה XS.",
+      "sku": null,
+      "brand": null,
+      "price": 279,
+      "base_price": 279,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778234861038-juorh.webp",
+        "https://example.com/assets/product-ai-fit-1778234831980-vi3ljo.webp",
+        "https://example.com/assets/product-ai-fit-1778234943253-iqc2ik.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-ayydn-kchvl-3f1c1h",
+      "categories": [
+        "שמלות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "b24c3c5c-4c10-40f7-9089-d272c04756fc",
+      "slug": "shmlt-ayydn-shchvr-jbr0uw",
+      "name": "שמלת איידן שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 279,
+      "base_price": 279,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778234567874-f47clc.webp",
+        "https://example.com/assets/product-ai-fit-1778234526291-6hq5mx.webp",
+        "https://example.com/assets/product-ai-fit-1778234605310-crht8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-ayydn-shchvr-jbr0uw",
+      "categories": [
+        "שמלות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "eb5e4afb-4c82-4de9-81f9-69626793bdb2",
+      "slug": "shmlt-kyyty-lbn-gfyiji",
+      "name": "שמלת קייטי לבן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שמלת מקסי מחויטת בגזרה צמודה ומחמיאה עם שרוולים ארוכים וצווארון סירה אלגנטי. תיפורי קונטור מודגשים מדגישים את קווי הגוף, עם חצאית מתרחבת קלות בחלק התחתון\nהדוגמנית לובשת מידה XS",
+      "sku": null,
+      "brand": null,
+      "price": 349,
+      "base_price": 349,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778234036152-hdayh.webp",
+        "https://example.com/assets/product-ai-fit-1778234065138-ygfnoc.webp",
+        "https://example.com/assets/product-ai-fit-1778234181754-josb5h.webp",
+        "https://example.com/assets/product-ai-fit-1778234208964-k3v7l.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-kyyty-lbn-gfyiji",
+      "categories": [
+        "שמלות ערב",
+        "שמלות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "dcdeba92-75d6-480b-abc6-18e6a130dc91",
+      "slug": "shmlt-kyyty-shchvr-3d838q",
+      "name": "שמלת קייטי שחור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שמלת מקסי מחויטת בגזרה צמודה ומחמיאה עם שרוולים ארוכים וצווארון סירה אלגנטי. תיפורי קונטור מודגשים מדגישים את קווי הגוף, עם חצאית מתרחבת קלות בחלק התחתון\nהדוגמנית לובשת מידה XS.",
+      "sku": null,
+      "brand": null,
+      "price": 349,
+      "base_price": 349,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778233802296-1m59a.webp",
+        "https://example.com/assets/product-ai-fit-1778233836628-ewji0x.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-kyyty-shchvr-3d838q",
+      "categories": [
+        "שמלות ערב",
+        "שמלות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "972d7755-2205-44b1-b476-7eb73a8d45ec",
+      "slug": "ann-kkav-ez3pfy",
+      "name": "ענן קקאו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת “ענן קקאו” היא סט פשתן מכופתר אלגנטי בגוון חום חמים וטבעי, שמעניק מראה יוקרתי אך רגוע ונוח ליום-יום.\n\nהחליפה עשויה בד פשתן איכותי, נושם וקליל, שמרגיש נעים על הגוף ומתאים במיוחד ללבישה יומיומית. הגוון החום העמוק יוצר מראה עשיר, טבעי ומלא סטייל, שמשדר אלגנטיות שקטה ותחכום מודרני.\n\nהחלק העליון בעיצוב מכופתר מעניק מראה מסודר ומוקפד, בעוד הגזרה המחמיאה שומרת על נוחות ותנועה חופשית. הסט כולל גם חצאית תואמת בגזרה נשית ומחמיאה, שמשלימה את הלוק ויוצרת הופעה אחידה, נקייה ומדויקת.",
+      "sku": null,
+      "brand": null,
+      "price": 159,
+      "base_price": 159,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1778070841150-j5bf8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/ann-kkav-ez3pfy",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "8d7ed43c-d659-4083-9562-345e82a95b68",
+      "slug": "lbn-pshtn-algnt-psaj0s",
+      "name": "לבן פשתן אלגנט",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת “ענן פשתן” לבנה היא סט מכופתר אלגנטי ונושם שמשלב בין מראה טבעי, נקי ויוקרתי לבין נוחות מקסימלית ליום-יום.\n\nהחליפה עשויה בד פשתן איכותי וקליל, שמעניק תחושת אווריריות ונעימות על הגוף ומתאים במיוחד לאקלים חם. הגוון הלבן הנקי יוצר מראה רענן, קלאסי ועל-זמני שמשדר אלגנטיות שקטה ולא מתאמצת.\n\nהחלק העליון בעיצוב מכופתר מעניק מראה מסודר ומוקפד, בעוד הגזרה המחמיאה שומרת על נוחות ותנועה חופשית. הסט כולל חצאית תואמת כחלק מהתחתית, בגזרה נשית ומחמיאה שמשלימה את הלוק ויוצרת מראה אחיד, אלגנטי ומדויק.\n",
+      "sku": null,
+      "brand": null,
+      "price": 159,
+      "base_price": 159,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778184386065-pjoh5h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/lbn-pshtn-algnt-psaj0s",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "6ca81dd1-7796-4323-b4ba-4df8d580daac",
+      "slug": "krn-shmsh-icc466",
+      "name": "קרן שמש",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת “קרן שמש” היא סט צווארון צהוב מלא סטייל שמכניס אור, רעננות ונוכחות לכל הופעה.\n\nהחליפה מגיעה בגוון צהוב חמים ומלא חיים, שמעניק מראה בולט אך אלגנטי, ומשדר ביטחון וסטייל טבעי. החלק העליון בעיצוב צווארון מוסיף טאץ’ קלאסי ומסודר, בעוד הגזרה המחמיאה יוצרת מראה נשי, נקי ומדויק",
+      "sku": null,
+      "brand": null,
+      "price": 159,
+      "base_price": 159,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778522951748-w7fnh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/krn-shmsh-icc466",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-11T18:09:22.005Z"
+    },
+    {
+      "id": "ab95561e-7393-4619-857c-5025bb480e4c",
+      "slug": "avr-lbn-8h2blu",
+      "name": "אור לבן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חולצת בייסיק לבנה בגזרת אוברסייז היא פריט חובה בכל מלתחה שמחפשת שילוב של נוחות, פשטות וסטייל נקי.\n\nהחולצה מגיעה בגזרה רחבה ומשוחררת שיושבת בצורה טבעית על הגוף ומעניקה תחושת נוחות לאורך כל היום. הצבע הלבן הקלאסי יוצר מראה רענן, נקי ועל-זמני, שמתאים לכל שילוב ולכל סגנון לבוש.",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778184580192-cbezik.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/avr-lbn-8h2blu",
+      "categories": [
+        "חולצות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "f89df4ac-c3de-4ea3-8843-66f2389b9b87",
+      "slug": "ppyvn-tklt-5c9ctg",
+      "name": "פפיון תכלת",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת “פפיון תכלת” ליום־יום היא סט קליל, נוח ומלא סטייל שמתאים ללוקים יומיומיים עם מראה רענן, נקי ועדין.\n\nהחליפה מגיעה בגוון תכלת רך שמעניק תחושת רוגע ואלגנטיות קז’ואלית, יחד עם סרט קשירה (פפיון) שמוסיף דיטייל מיוחד ונשי שהופך את הלוק לפשוט אבל עם נוכחות אופנתית. הגזרה נוחה ומשוחררת, כך שהיא מתאימה ללבישה לאורך כל היום תוך שמירה על מראה מסודר ומוקפד.",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778184677416-c99jdk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/ppyvn-tklt-5c9ctg",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "701e30f4-6d76-485a-a787-3e586bc15303",
+      "slug": "pynk-shyk-zj9yd7",
+      "name": "פינק שיק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת “פפיון ורוד” ליום־יום היא סט קליל, נוח ומלא סטייל שמתאים ללוקים יומיומיים עם טאץ’ נשי ועדין.\n\nהחליפה מגיעה בגוון ורוד רך שמוסיף מראה רענן ומתוק לכל הופעה, יחד עם סרט קשירה (פפיון) שמעניק דיטייל מיוחד והופך את הלוק לפשוט אבל לא משעמם. הגזרה נוחה ומשוחררת, כך שהיא מתאימה ללבישה לאורך כל היום בלי לוותר על מראה מסודר ואופנתי.",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778184775690-vj6vgj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/pynk-shyk-zj9yd7",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "62f2e518-ccd5-4b0d-826e-89f32a0455ad",
+      "slug": "lvryan-tchrh-lbnh-pdgjo7",
+      "name": "לוריאן תחרה לבנה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת תחרה לבנה הכוללת חצאית וחולצה היא סט אלגנטי ונשי שמשדר ניקיון, עדינות ויוקרה קלאסית.\n\nהחליפה עשויה תחרה איכותית עם דיטיילים עדינים שמוסיפים עומק ועניין למראה כולו. הגזרה של החצאית מחמיאה ומדגישה את המותן בצורה טבעית ונשית, בעוד החולצה משלימה את הלוק עם מראה רך, אלגנטי ומוקפד.",
+      "sku": null,
+      "brand": null,
+      "price": 189,
+      "base_price": 199,
+      "sale_price": 189,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778184852271-k70vdq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/lvryan-tchrh-lbnh-pdgjo7",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "4bb28c4f-5c85-40ba-97df-c0ffd6c52bc1",
+      "slug": "avr-lyly-hdyav5",
+      "name": "אור לילי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפת סאטן לבנה “אור לילי” היא סט אלגנטי ונשי המשלב בין יוקרה רכה לסטייל נקי ומדויק.\n\nהחליפה כוללת חצאית בגזרה מחמיאה ועליונית תואמת, עשויות בד סאטן חלק ונשפך שמעניק מראה מבריק ועדין עם נוכחות יוקרתית. הצבע הלבן הקלאסי יוצר מראה נקי, אלגנטי ועל-זמני שמתאים לאירועים מיוחדים, חגיגות, או לוקים אלגנטיים במיוחד.",
+      "sku": null,
+      "brand": null,
+      "price": 179,
+      "base_price": 179,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778184955654-yyp7j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/avr-lyly-hdyav5",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "fdc3e776-ddce-496b-b995-d821448016bc",
+      "slug": "chvltst-nvah-byysyk-mldsns",
+      "name": "חולצת נועה בייסיק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חולצת בייסיק ורודה בגזרת אוברסייז היא פריט חובה לכל מלתחה שמחפשת שילוב בין נוחות לסטייל נקי ומודרני.\n\nהחולצה מגיעה בגזרה רחבה ומשוחררת שיושבת בקלילות על הגוף, מעניקה תחושת נוחות מקסימלית ומראה טרנדי ולא מתאמץ. הצבע הורוד העדין מוסיף טאץ’ רך ונשי ללוק,",
+      "sku": null,
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778185028317-b5zptr.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chvltst-nvah-byysyk-mldsns",
+      "categories": [
+        "חולצות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "cfb3ee30-09ff-44ba-85e2-e769055edb4b",
+      "slug": "chtsayt-lvryyn-tchrh-shchvrh-5uhjbl",
+      "name": "חצאית לוריין תחרה שחורה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חצאית תחרה שחורה היא פריט קלאסי ועל-זמני שמשלב בין אלגנטיות נשית לבין מראה יוקרתי ומדויק.\n\nהחצאית עשויה תחרה עדינה בגוון שחור עמוק, היוצרת מראה עשיר עם טקסטורה מיוחדת שמוסיפה עניין וסטייל לכל הופעה. הגזרה המחמיאה מדגישה את המותן ויוצרת סילואטה נשית ואלגנטית, שמתאימה גם ליציאות ערב וגם ללוק מוקפד ליום-יום",
+      "sku": null,
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778185335404-cdvyg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/chtsayt-lvryyn-tchrh-shchvrh-5uhjbl",
+      "categories": [
+        "חצאיות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "dc70b362-1ac0-4a40-9893-9ed6f57cd8b1",
+      "slug": "shmlt-nvam-mwff14",
+      "name": "שמלת נועם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שמלת נועם היא הבחירה המושלמת למראה אלגנטי, נקי ומדויק שמדגיש את הגוף בצורה מחמיאה ועדינה.\n\nהשמלה מגיעה בגזרה צמודה שמלטפת את הקווים הטבעיים של הגוף ויוצרת מראה נשי ומוקפד, תוך שמירה על סטייל יוקרתי ולא מתאמץ. הצבע השחור הקלאסי מעניק לה מראה על-זמני שמתאים לכל אירוע – ערב, דייט או יציאה חגיגית.\n\nהדגש המיוחד בשמלה הוא האבזם הייחודי בעיצוב “אש”, שמוסיף טאץ’ עוצמתי וייחודי למראה כולו והופך את השמלה מפריט בסיסי לפריט עם אמירה. ניתן להסיר את האבזם לפי בחירה, כך שאפשר ליהנות ממראה נקי ומינימליסטי.",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778185713440-uye92d.webp",
+        "https://example.com/assets/product-ai-fit-1778185570409-si5d5.webp",
+        "https://example.com/assets/product-ai-fit-1778185686500-id9k9n.webp",
+        "https://example.com/assets/product-ai-fit-1778185623231-dt7rb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-nvam-mwff14",
+      "categories": [
+        "שמלות ערב",
+        "שמלות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "7c390582-52b2-49cc-ba08-0c2c7503bd28",
+      "slug": "shmlt-amvr-shkoqq",
+      "name": "שמלת אמור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\n שמלת נואר אלגנט\n\n\nשמלת ערב קלאסית ונשית בעיצוב נקי ומדויק, שמדגישה את קווי הגוף בצורה מחמיאה ומעניקה מראה יוקרתי ואלגנטי.\n\nהגזרה הצמודה משתלבת עם שרוולים ארוכים ופתח עדין באזור החזה, ליצירת לוק מתוחכם עם טאץ’ מודרני – מושלם לאירועים, ערב או הופעה מרשימה.\n",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-ai-fit-1778186037939-raxyi.webp",
+        "https://example.com/assets/product-ai-fit-1778186067553-u93ft.webp",
+        "https://example.com/assets/product-ai-fit-1778186176010-jbmlyt.webp",
+        "https://example.com/assets/product-ai-fit-1778186152643-vodm8q.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shmlt-amvr-shkoqq",
+      "categories": [
+        "שמלות",
+        "שמלות ערב"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    },
+    {
+      "id": "f3efe0b9-a297-4fdc-ad32-b2a01e6b3a6c",
+      "slug": "chlypt-yryn-ppkemf",
+      "name": "חליפת ירין",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חליפה ירוקה בגזרה מחויטת ועדינה, מושלמת ליום-יום עם מראה נקי, נוח ומלא סטייל.\n\nהחליפה מגיעה בגוון ירוק אלגנטי שמוסיף צבע רענן ללוק היומיומי בלי להיות מוגזם. הגזרה נוחה ומחמיאה, מאפשרת תנועה חופשית ונוחות לאורך כל היום, תוך שמירה על מראה מסודר ומוקפד",
+      "sku": null,
+      "brand": null,
+      "price": 169,
+      "base_price": 169,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-enhanced-1778072447091-jm59or.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://example.com/product/chlypt-yryn-ppkemf",
+      "categories": [
+        "חליפות"
+      ],
+      "updated_at": "2026-05-08T14:08:50.053Z"
+    }
+  ]
+}
